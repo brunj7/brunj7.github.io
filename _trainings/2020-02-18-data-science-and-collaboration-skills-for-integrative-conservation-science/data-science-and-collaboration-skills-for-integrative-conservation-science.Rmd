@@ -23,13 +23,13 @@ This intensive 4-day workshop on Data Science and Collaboration Skills for Integ
 
 The goals of this workshop are to:
 
-Integrate collaborative science best practices within SNAPP Working Groups
-Empower participants to adopt computing best practices in their scientific workflows and data management
-Create a greater sense of SNAPP community
-Foster potential collaboration and enhanced knowledge-sharing across SNAPP Working Groups
-Familiarize and instruct SNAPP researchers in the use of NCEAS (and other) analytical servers and services
-Discuss mechanisms that have helped SNAPP groups to advance SNAPP’s commitment to open science
+- Integrate collaborative science best practices within SNAPP Working Groups
+- Empower participants to adopt computing best practices in their scientific workflows and data management
+- Create a greater sense of SNAPP community
+- Foster potential collaboration and enhanced knowledge-sharing across SNAPP Working Groups
+- Familiarize and instruct SNAPP researchers in the use of NCEAS (and other) analytical servers and services
+- Discuss mechanisms that have helped SNAPP groups to advance SNAPP’s commitment to open science
 
-<hr>
+<br>
 
-
+Training website: https://science-for-nature-and-people.github.io/2020-data-collab-workshop/materials/
