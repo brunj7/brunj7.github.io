@@ -1,0 +1,27 @@
+---
+title: "Developing reproducible workflows collaboratively"
+description: |
+  In this blog we highlight some of the key takeaways and best practices from our second remote support module to collaborate in a more reproducible and data-driven way. 
+author:
+  - name: Julien Brun
+
+date: 05-29-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Abstract
+
+In this module, we wanted to empower multi-institutional and cross-sectoral science teams to collaboratively develop reproducible workflows for data-driven projects. The idea was to take remote, decentralized teams and help them to develop a centralized mindset and toolkit for data & code while working remotely. Our goal was to expose participants to “good enough” tools and practices to develop common practices that will enable them to collaborate efficiently among each other, but also with their future selves. We focused on the centralization and management of the information, data and code they will be collecting and developing over their two-year project; stressing that for each part of their workflow, everyone should be encouraged and enabled to contribute no matter their technical skills. 
+
+## Original post on NCEAS website:
+
+<https://www.nceas.ucsb.edu/news/developing-reproducible-workflows-collaboratively>
+
+

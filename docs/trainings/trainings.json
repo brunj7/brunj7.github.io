@@ -1,0 +1,27 @@
+[
+  {
+    "path": "trainings/2020-02-18-data-science-and-collaboration-skills-for-integrative-conservation-science/",
+    "title": "Data Science and Collaboration Skills for Integrative Conservation Science",
+    "description": "This training, sponsored by [SNAPP](https://snappartnership.net/), aims to bring together the SNAPP and NCEAS postdoctoral associates to foster communities and collaboration, as well as promote scientific computing and open science best practices.",
+    "author": [
+      {
+        "name": "Julien Brun",
+        "url": {}
+      },
+      {
+        "name": "Carrie Kappel",
+        "url": {}
+      },
+      {
+        "name": "Jeanette Clark",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-18",
+    "categories": [],
+    "contents": "\nThis intensive 4-day workshop on Data Science and Collaboration Skills for Integrative Conservation Science was held at NCEAS, Santa Barbara, CA from Feb 18 to Feb 21, 2020.\nCurriculum at a glance\nThe goals of this workshop are to:\nIntegrate collaborative science best practices within SNAPP Working Groups Empower participants to adopt computing best practices in their scientific workflows and data management Create a greater sense of SNAPP community Foster potential collaboration and enhanced knowledge-sharing across SNAPP Working Groups Familiarize and instruct SNAPP researchers in the use of NCEAS (and other) analytical servers and services Discuss mechanisms that have helped SNAPP groups to advance SNAPP’s commitment to open science\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-01-11T17:28:20-08:00",
+    "input_file": {}
+  }
+]
