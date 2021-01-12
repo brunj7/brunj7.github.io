@@ -12,6 +12,10 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Blogs"
+      href: blogs.html
+    - text: "Trainings"
+      href: trainings.html
     - icon: fab fa-github
       href: https://github.com/brunj7
     - icon: fa fa-twitter
