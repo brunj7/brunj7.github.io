@@ -4,6 +4,8 @@ description: |
   In this blog we highlight some of the key takeaways and best practices from our second remote support module to collaborate in a more reproducible and data-driven way. 
 author:
   - name: Julien Brun
+  - name: Julie Lowndes
+  - name: Carrie Kappel 
 
 date: 05-29-2020
 output:

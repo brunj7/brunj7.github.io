@@ -7,14 +7,22 @@
       {
         "name": "Julien Brun",
         "url": {}
+      },
+      {
+        "name": "Julie Lowndes",
+        "url": {}
+      },
+      {
+        "name": "Carrie Kappel",
+        "url": {}
       }
     ],
     "date": "2020-05-29",
     "categories": [],
     "contents": "\nAbstract\nIn this module, we wanted to empower multi-institutional and cross-sectoral science teams to collaboratively develop reproducible workflows for data-driven projects. The idea was to take remote, decentralized teams and help them to develop a centralized mindset and toolkit for data & code while working remotely. Our goal was to expose participants to “good enough” tools and practices to develop common practices that will enable them to collaborate efficiently among each other, but also with their future selves. We focused on the centralization and management of the information, data and code they will be collecting and developing over their two-year project; stressing that for each part of their workflow, everyone should be encouraged and enabled to contribute no matter their technical skills.\nOriginal post on NCEAS website:\nhttps://www.nceas.ucsb.edu/news/developing-reproducible-workflows-collaboratively\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-01-11T17:12:55-08:00",
-    "input_file": {}
+    "last_modified": "2021-01-11T17:39:49-08:00",
+    "input_file": "developing-reproducible-workflows-collaboratively.utf8.md"
   },
   {
     "path": "posts/2020-05-04-kick-starting-scientific-collaborations-remotely/",
