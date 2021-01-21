@@ -1,0 +1,48 @@
+[
+  {
+    "path": "packages/2021-01-20-camelsdata/",
+    "title": "camelsdata",
+    "description": "Processing of NCAR Catchment Attributes and Meteorology for Large-sample Studies (CAMELS) data using R.",
+    "author": [
+      {
+        "name": "Julien Brun",
+        "url": {}
+      },
+      {
+        "name": "Kyle Monper",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-20",
+    "categories": [],
+    "contents": "\ncamelsquery eases the processing of NCAR Catchment Attributes and Meteorology for Large-sample Studies (CAMELS) data using R. It requires as input a set of USGS stream gages (here for more). This package offers a function for downloading the CAMELS data automatically, a function to process CAMELS data and integrate them with USGS daily streamflow and water quality gauge data.\nCAMELS data: https://ral.ucar.edu/solutions/products/camels\nGitHub repository: https://github.com/brunj7/CamelsQuery\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-01-20T18:49:31-08:00",
+    "input_file": {}
+  },
+  {
+    "path": "packages/2021-01-20-metajam/",
+    "title": "metajam",
+    "description": "R package to Bringing data and metadata togetheR",
+    "author": [
+      {
+        "name": "Julien Brun",
+        "url": {}
+      },
+      {
+        "name": "Irene Steves",
+        "url": {}
+      },
+      {
+        "name": "Mitchell Maier",
+        "url": {}
+      }
+    ],
+    "date": "2018-04-20",
+    "categories": [],
+    "contents": "\nmetajam is an R package to ease the Download and import of data and metadata from repositories in the DataONE network into R.\nPackage website: https://nceas.github.io/metajam/\n\n\n\n\n\n\n",
+    "preview": "packages/2021-01-20-metajam/metajam_hex.png",
+    "last_modified": "2021-01-20T18:49:34-08:00",
+    "input_file": {}
+  }
+]

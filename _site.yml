@@ -16,6 +16,8 @@ navbar:
       href: blogs.html
     - text: "Trainings"
       href: trainings.html
+    - text: "R Packages"
+      href: packages.html
     - icon: fab fa-github
       href: https://github.com/brunj7
     - icon: fa fa-twitter
