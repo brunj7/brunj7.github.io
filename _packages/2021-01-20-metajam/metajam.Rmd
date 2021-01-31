@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-`metajam` is an R package to ease the Download and import of data and metadata from repositories in the DataONE network into R.
+`metajam` is an R package to ease the Download and import of data and metadata from repositories in the [DataONE](https://www.dataone.org/) federation of data repository into R.
 
 ```{r fig.align='center'}
 knitr::include_graphics("metajam_hex.png")

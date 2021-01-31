@@ -40,9 +40,9 @@
     ],
     "date": "2018-04-20",
     "categories": [],
-    "contents": "\nmetajam is an R package to ease the Download and import of data and metadata from repositories in the DataONE network into R.\n\n\n\nPackage website: https://nceas.github.io/metajam/\n\n\n\n",
+    "contents": "\nmetajam is an R package to ease the Download and import of data and metadata from repositories in the DataONE federation of data repository into R.\n\n\n\nPackage website: https://nceas.github.io/metajam/\n\n\n\n",
     "preview": "packages/2021-01-20-metajam/metajam_hex.png",
-    "last_modified": "2021-01-30T19:05:07-08:00",
+    "last_modified": "2021-01-30T21:08:07-08:00",
     "input_file": {}
   }
 ]
