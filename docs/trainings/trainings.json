@@ -49,7 +49,7 @@
     "categories": [],
     "contents": "\nThis onboarding document is designed to support researchers beginning their postdoctoral work with NEON in a way that provides access to information, resources and training in open practices and team science. Developing good data science skills will enable researchers to maximize their productivity, share their data with the scientific community effectively and efficiently, and benefit from the re-use of their data by others.\n\n\n\nTraining website: https://learning.nceas.ucsb.edu/2020-12-neon/\n\n\n\n",
     "preview": "trainings/2020-12-20-neon-onboarding/logos_neon_nceas.png",
-    "last_modified": "2021-01-30T20:39:07-08:00",
+    "last_modified": "2021-01-30T21:02:21-08:00",
     "input_file": {}
   },
   {
@@ -145,6 +145,39 @@
     "input_file": {}
   },
   {
+    "path": "trainings/2018-07-10-open-science-for-synthesis-gulf-research-program-workshop/",
+    "title": "Open Science for Synthesis: Gulf Research Program Workshop",
+    "description": "The primary goal of the Open Science for Synthesis - Gulf Research Program Workshop is to provide hands-on experience with contemporary open science tools from command line to data to communication. Team science is promoted. Practice and real data are used in groups to apply skills we explore.",
+    "author": [
+      {
+        "name": "Matt Jones",
+        "url": {}
+      },
+      {
+        "name": "Amber Budden",
+        "url": {}
+      },
+      {
+        "name": "Chris Lortie",
+        "url": {}
+      },
+      {
+        "name": "Bryce Mecum",
+        "url": {}
+      },
+      {
+        "name": "Julien Brun",
+        "url": {}
+      }
+    ],
+    "date": "2018-07-10",
+    "categories": [],
+    "contents": "\nCurriculum at a glance\nThe primary goal of the 3-week Open Science for Synthesis - Gulf Research Program Workshop is to provide hands-on experience with contemporary open science tools from command line to data to communication. Team science is promoted. Practice and real data are used in groups to apply skills we explore.\nWeek 1. Fundamental collaboration skills Introduction to command line, communicating science, R, meta-analysis and data management.\nWeek 2. Advanced topics Tabular data, programming, Python, workflows, reproducible science and metagenomics.\nWeek 3. Advanced topics & group projects Communication, geospatial analysis, data viz, and group project sharing.\n\n\nknitr::include_graphics(\"gulf.jpg\")\n\n\n\n\n\nWorkshop material:\nwebsite: https://nceas.github.io/oss-2017/index.html\nmaterials: https://nceas.github.io/oss-2017/lessons.html\n\n\n\n",
+    "preview": "trainings/2018-07-10-open-science-for-synthesis-gulf-research-program-workshop/gulf.jpg",
+    "last_modified": "2021-01-30T20:48:36-08:00",
+    "input_file": {}
+  },
+  {
     "path": "trainings/2018-10-01-reproducible-data-visualization-using-rmarkdown-and-ggplot2/",
     "title": "Reproducible Data Visualization using rmarkdown and ggplot2",
     "description": "A short description of the post.",
@@ -163,6 +196,27 @@
     "contents": "\nCurriculum at a glance\nParticipants will use of rmarkdown and ggplot2 to create document integrating R code, documentation and data visualization in compelling documents. The first half of the session will be focusing on an introduction to Rmarkdown and how this format can be used to make data processing and analysis more reproducible by combining, documentation and executable code chunks into one document, that can be rendered in different formats (html, PDF, …) to be shared. In the second half of this workshop, participants will take a deeper look into data visualization and how ggplot’s grammar of graphics approach can be used to conduct powerful data exploration and analysis visualizations. Basic knowledge of the R programming language recommended.\n\n\n\n\nWorkshop material:\nRepository: https://github.com/brunj7/reproducible-dataviz\nPresentation: https://brunj7.github.io/reproducible-dataviz/rmarkdown-intro_deck.html\nEvent Link: https://2018lterallscientistsmeeting.sched.com/event/FYq5\n\n\n\n",
     "preview": "trainings/2018-10-01-reproducible-data-visualization-using-rmarkdown-and-ggplot2/stickynotes.png",
     "last_modified": "2021-01-30T20:40:25-08:00",
+    "input_file": {}
+  },
+  {
+    "path": "trainings/2017-06-27-computational-collaboration-skills-for-integrative-conservation-science-workshop/",
+    "title": "Computational & collaboration skills for integrative conservation science workshop",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Julien Brun",
+        "url": {}
+      },
+      {
+        "name": "Mark Schildhauer",
+        "url": {}
+      }
+    ],
+    "date": "2017-06-27",
+    "categories": [],
+    "contents": "\nCurriculum at a glance\nThis training brought together Science for Nature and People Partnership (SNAPP) postdoctoral associates and technical liaisons to foster community and collaboration, as well as promote scientific computing and open science best practices. Topics included data modeling, manipulation and visualization; collaborative and open science principles and techniques; geospatial analysis; and coding best practices.\n\n\nknitr::include_graphics(\"DS_venn.png\")\n\n\n\n\nFigure 1: Image Attribution: Drew Conwa http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram\n\n\n\n\nWorkshop material:\nmaterials: https://github.com/NCEAS/2016-postdoc-training\n\n\n\n",
+    "preview": "trainings/2017-06-27-computational-collaboration-skills-for-integrative-conservation-science-workshop/DS_venn.png",
+    "last_modified": "2021-01-30T21:00:25-08:00",
     "input_file": {}
   }
 ]
