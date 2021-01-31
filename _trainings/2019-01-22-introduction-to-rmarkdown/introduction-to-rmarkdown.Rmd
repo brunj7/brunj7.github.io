@@ -1,0 +1,31 @@
+---
+title: "Introduction to rmarkdown"
+description: |
+  Making your work reproducible with Rmarkdown.
+author:
+  - name: Julien Brun
+date: 01-22-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This is a 1h30 introduction workshop to the use of `rmarkdown` to make your work reproduciblw. This workshop was taught twice at UC Santa Barbara:
+
+- Eco-Data-Science Group: https://eco-data-science.github.io/
+- UCSB Center for Scientific Computing (CSC)): http://csc.cnsi.ucsb.edu/docs/seminars-workshops
+
+There are 2 main documents:
+
+- Presentation deck: https://brunj7.github.io/rmarkdown-intro/rmarkdown-intro_deck.html
+- R Markdown document we will be playing with: https://github.com/brunj7/rmarkdown-intro/blob/master/rmarkdown-myfirst.Rmd
+
+
+```{r fig.align='center'}
+knitr::include_graphics("rmarkdown.png")
+```

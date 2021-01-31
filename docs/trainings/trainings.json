@@ -126,5 +126,22 @@
     "preview": "trainings/2020-02-18-data-science-and-collaboration-skills-for-integrative-conservation-science/curriculum.png",
     "last_modified": "2021-01-30T19:10:59-08:00",
     "input_file": {}
+  },
+  {
+    "path": "trainings/2019-01-22-introduction-to-rmarkdown/",
+    "title": "Introduction to rmarkdown",
+    "description": "Making your work reproducible with Rmarkdown.",
+    "author": [
+      {
+        "name": "Julien Brun",
+        "url": {}
+      }
+    ],
+    "date": "2019-01-22",
+    "categories": [],
+    "contents": "\nThis is a 1h30 introduction workshop to the use of rmarkdown to make your work reproduciblw. This workshop was taught twice at UC Santa Barbara:\nEco-Data-Science Group: https://eco-data-science.github.io/\nUCSB Center for Scientific Computing (CSC)): http://csc.cnsi.ucsb.edu/docs/seminars-workshops\nThere are 2 main documents:\nPresentation deck: https://brunj7.github.io/rmarkdown-intro/rmarkdown-intro_deck.html\nR Markdown document we will be playing with: https://github.com/brunj7/rmarkdown-intro/blob/master/rmarkdown-myfirst.Rmd\n\n\n\n\n\n\n",
+    "preview": "trainings/2019-01-22-introduction-to-rmarkdown/rmarkdown.png",
+    "last_modified": "2021-01-30T19:21:07-08:00",
+    "input_file": {}
   }
 ]
