@@ -30,6 +30,10 @@ The goals of this workshop are to:
 - Familiarize and instruct SNAPP researchers in the use of NCEAS (and other) analytical servers and services
 - Discuss mechanisms that have helped SNAPP groups to advance SNAPP’s commitment to open science
 
+```{r fig.align='center'}
+knitr::include_graphics("curriculum.png")
+```
+
 <br>
 
 **Training website:**
