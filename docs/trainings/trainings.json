@@ -1,8 +1,111 @@
 [
   {
+    "path": "trainings/2020-12-20-neon-onboarding/",
+    "title": "NEON Onboarding",
+    "description": "A self guided learning curricula to support new NEON Postdoctoral Fellows as part of their onboarding experience. The curricula builds from the experience of ecological researchers, trainers, developers and information managers to provide resources and training in support of collaborative, reproducible research practices.",
+    "author": [
+      {
+        "name": "Julien Brun",
+        "url": {}
+      },
+      {
+        "name": "Amber Budden",
+        "url": {}
+      },
+      {
+        "name": "Jeanette Clark",
+        "url": {}
+      },
+      {
+        "name": "Matt Jones",
+        "url": {}
+      },
+      {
+        "name": "Carrie Kappel",
+        "url": {}
+      },
+      {
+        "name": "Erin McLean",
+        "url": {}
+      },
+      {
+        "name": "Bryce Mecum",
+        "url": {}
+      },
+      {
+        "name": "William Michener",
+        "url": {}
+      },
+      {
+        "name": "Julie Stewart Lowndes",
+        "url": {}
+      },
+      {
+        "name": "Geoff Willard",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-20",
+    "categories": [],
+    "contents": "\nThis onboarding document is designed to support researchers beginning their postdoctoral work with NEON in a way that provides access to information, resources and training in open practices and team science. Developing good data science skills will enable researchers to maximize their productivity, share their data with the scientific community effectively and efficiently, and benefit from the re-use of their data by others.\nTraining website: https://learning.nceas.ucsb.edu/2020-12-neon/\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-01-30T18:23:17-08:00",
+    "input_file": {}
+  },
+  {
+    "path": "trainings/2020-05-08-tools-and-practices-for-collaborative-reproducible-data-science/",
+    "title": "Tools and practices for collaborative, reproducible data science",
+    "description": "An introduction to \"good enough\" practices to create a shared virtual environment allowing you to develop reproducible workflows for your analysis and manage your data.",
+    "author": [
+      {
+        "name": "Julien Brun",
+        "url": {}
+      },
+      {
+        "name": "Carrie Kappel",
+        "url": {}
+      },
+      {
+        "name": "Julie Stewart Lowndes",
+        "url": {}
+      }
+    ],
+    "date": "2020-05-08",
+    "categories": [],
+    "contents": "\nCurriculum at a glance\nThis module is an introduction to the data science support NCEAS is providing to LTER and SNAPP working groups followed by a discussion on best practices about data management in a distributed team setup. Participants will have the opportunity to brainstorm on their data and computing needs. In the second part of the workshop, an introduction to the use of NCEAS analytical server and the concept of collaborative coding as a distributed team will be demonstrated to empower participants to develop their analytical workflows in a remote setup.\n\n\n\n\nWorkshop material: https://docs.google.com/document/d/1cTIYyfc0J564PxpF0-xE_bbH6TIK2tq1F5WkDOx0lrw/edit?usp=sharing\nBlog post: https://www.nceas.ucsb.edu/news/developing-reproducible-workflows-collaboratively\n\n\n\n",
+    "preview": "trainings/2020-05-08-tools-and-practices-for-collaborative-reproducible-data-science/training_group_screenshot.png",
+    "last_modified": "2021-01-30T19:07:16-08:00",
+    "input_file": {}
+  },
+  {
+    "path": "trainings/2020-04-24-efficient-virtual-collaboration-facilitation-for-synthesis-science/",
+    "title": "Efficient virtual collaboration & facilitation for synthesis science",
+    "description": "The goal of thos workshop is to strengthen collaboration and facilitation skills in remote meetings for synthesis science using social and technical approaches that you can immediately implement with your tam.",
+    "author": [
+      {
+        "name": "Julie Stewart Lowndes",
+        "url": {}
+      },
+      {
+        "name": "Carrie Kappel",
+        "url": {}
+      },
+      {
+        "name": "Julien Brun",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-24",
+    "categories": [],
+    "contents": "\nCurriculum at a glance\nThis 3-hour module provides mentorship and facilitation training for teams (Working Groups) to develop skill sets, habits, and mindsets to make remote work and collaborative synthesis science more efficient and resilient.\n\n\n\n\nWorkshop material: https://docs.google.com/document/d/1-rm903_Er4fgKVHxYSSqCnAMEGssiJw-7t9htbC4IVk/edit?usp=sharing\nBlog post: https://www.nceas.ucsb.edu/news/kick-starting-scientific-collaborations-remotely\n\n\n\n",
+    "preview": "trainings/2020-04-24-efficient-virtual-collaboration-facilitation-for-synthesis-science/NCEAS-Module1-GDocing.png",
+    "last_modified": "2021-01-30T19:03:07-08:00",
+    "input_file": {}
+  },
+  {
     "path": "trainings/2020-02-18-data-science-and-collaboration-skills-for-integrative-conservation-science/",
     "title": "Data Science and Collaboration Skills for Integrative Conservation Science",
-    "description": "This training, sponsored by [SNAPP](https://snappartnership.net/), aims to bring together the SNAPP and NCEAS postdoctoral associates to foster communities and collaboration, as well as promote scientific computing and open science best practices.",
+    "description": "This training, sponsored by the Science for Nature And People Partnership (SNAPP), aims to bring together the SNAPP and NCEAS postdoctoral associates to foster communities and collaboration, as well as promote scientific computing and open science best practices.",
     "author": [
       {
         "name": "Julien Brun",
@@ -21,7 +124,7 @@
     "categories": [],
     "contents": "\nThis intensive 4-day workshop on Data Science and Collaboration Skills for Integrative Conservation Science was held at NCEAS, Santa Barbara, CA from Feb 18 to Feb 21, 2020.\nCurriculum at a glance\nThe goals of this workshop are to:\nIntegrate collaborative science best practices within SNAPP Working Groups\nEmpower participants to adopt computing best practices in their scientific workflows and data management\nCreate a greater sense of SNAPP community\nFoster potential collaboration and enhanced knowledge-sharing across SNAPP Working Groups\nFamiliarize and instruct SNAPP researchers in the use of NCEAS (and other) analytical servers and services\nDiscuss mechanisms that have helped SNAPP groups to advance SNAPP’s commitment to open science\n\nTraining website: https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp\nPre-training R assessment: https://cosima.nceas.ucsb.edu/r-self-assessment/#section-assessment\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-01-11T17:48:03-08:00",
+    "last_modified": "2021-01-30T18:34:05-08:00",
     "input_file": {}
   }
 ]

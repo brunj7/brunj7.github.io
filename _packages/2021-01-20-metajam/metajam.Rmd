@@ -2,7 +2,6 @@
 title: "metajam"
 description: |
   R package to Bringing data and metadata togetheR
-preview: images/metajam_hex_small.png
 author:
   - name: Julien Brun
   - name: Irene Steves
@@ -20,14 +19,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-
 `metajam` is an R package to ease the Download and import of data and metadata from repositories in the DataONE network into R.
-
-
-Package website: https://nceas.github.io/metajam/
 
 ```{r fig.align='center'}
 knitr::include_graphics("metajam_hex.png")
 ```
+
+Package website: https://nceas.github.io/metajam/
+
+
 
 
