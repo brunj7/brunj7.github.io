@@ -1,5 +1,26 @@
 [
   {
+    "path": "trainings/2021-01-01-mentor-for-ucsb-data-science-capstone-project/",
+    "title": "Mentor -- UCSB Data Science Capstone project",
+    "description": "Promote the use of LTER datasets for teaching Data Science.",
+    "author": [
+      {
+        "name": "Julien Brun",
+        "url": {}
+      },
+      {
+        "name": "Allison Horst",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-01",
+    "categories": [],
+    "contents": "\nCourse website: https://ucsb-ds-capstone-2021.github.io/class/contacts.html\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-03T14:57:17-08:00",
+    "input_file": {}
+  },
+  {
     "path": "trainings/2020-12-20-neon-onboarding/",
     "title": "NEON Onboarding",
     "description": "A self guided learning curricula to support new NEON Postdoctoral Fellows as part of their onboarding experience. The curricula builds from the experience of ecological researchers, trainers, developers and information managers to provide resources and training in support of collaborative, reproducible research practices.",
