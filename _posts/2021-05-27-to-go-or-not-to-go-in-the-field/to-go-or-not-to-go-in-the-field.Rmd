@@ -4,7 +4,7 @@ description: |
   Choosing whether to maintain long-term experiments during COVID poses a difficult dilemma.
 author:
   - name: Marty Downs
-  - name: Frank DAvis
+  - name: Frank Davis
   - name: Jenn Caselle
   - name: Julien Brun
   - name: Kristen Weiss
