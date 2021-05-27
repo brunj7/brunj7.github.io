@@ -18,5 +18,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 **Course website:**
-https://ucsb-ds-capstone-2021.github.io/class/contacts.html
+<https://ucsb-ds-capstone-2021.github.io/projects/nceas/update2.html>
 
