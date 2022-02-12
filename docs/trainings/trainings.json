@@ -13,9 +13,9 @@
     ],
     "date": "2021-09-27",
     "categories": [],
-    "contents": "\nCourse syllabus:\nThis course will cover the concept of metadata and how it can be leveraged for the integration of heterogeneous datasets into standardized data products. We will practice how to download data from data repositories both manually and programmatically relying on APIs. We will also discuss how to track the provenance of data, generate metadata integrating data semantics to increase data discovery, as well as archiving data products on data repositories to make them available to the broader community.\nCourse website: https://brunj7.github.io/EDS-213-metadata/\n\n\n\n",
-    "preview": {},
-    "last_modified": "2022-02-11T16:28:52-08:00",
+    "contents": "\nCourse syllabus:\nThis course will cover the concept of metadata and how it can be leveraged for the integration of heterogeneous datasets into standardized data products. We will practice how to download data from data repositories both manually and programmatically relying on APIs. We will also discuss how to track the provenance of data, generate metadata integrating data semantics to increase data discovery, as well as archiving data products on data repositories to make them available to the broader community.\nCourse website: https://brunj7.github.io/EDS-213-metadata/\n\n\n\n\n\n\n",
+    "preview": "trainings/2021-09-27-metadata-standards-data-modeling-and-data-semantics/meds_hex.png",
+    "last_modified": "2022-02-11T16:42:50-08:00",
     "input_file": {}
   },
   {
@@ -32,9 +32,9 @@
     ],
     "date": "2021-08-02",
     "categories": [],
-    "contents": "\nCourse syllabus:\nThe generation and analysis of environmental data is often a complex, multi-step process that may involve the collaboration of many people. Increasingly tools that document and help to organize workflows are being used to ensure reproducibility, shareability, and transparency of the results. This course will introduce students to the conceptual organization of workflows (including code, documents, and data) as a way to conduct reproducible analyses. These concepts will be combined with the practice of various software tools and collaborative coding techniques to develop and manage multi-step analytical workflows as a team.\nCourse website: https://brunj7.github.io/EDS-214-analytical-workflows/\n\n\n\n",
-    "preview": {},
-    "last_modified": "2022-02-11T16:24:13-08:00",
+    "contents": "\nCourse syllabus:\nThe generation and analysis of environmental data is often a complex, multi-step process that may involve the collaboration of many people. Increasingly tools that document and help to organize workflows are being used to ensure reproducibility, shareability, and transparency of the results. This course will introduce students to the conceptual organization of workflows (including code, documents, and data) as a way to conduct reproducible analyses. These concepts will be combined with the practice of various software tools and collaborative coding techniques to develop and manage multi-step analytical workflows as a team.\nCourse website: https://brunj7.github.io/EDS-214-analytical-workflows/\n\n\n\n\n\n\n",
+    "preview": "trainings/2021-08-02-analytical-workflows-and-scientific-reproducibility/meds_hex.png",
+    "last_modified": "2022-02-11T16:42:42-08:00",
     "input_file": {}
   },
   {

@@ -25,5 +25,5 @@ This course will cover the concept of metadata and how it can be leveraged for t
 
 
 ```{r fig.align='center'}
-knitr::include_graphics("https://raw.githubusercontent.com/UCSB-MEDS/UCSB-MEDS.github.io/main/img/meds_hex.png")
+knitr::include_graphics("meds_hex.png")
 ```
