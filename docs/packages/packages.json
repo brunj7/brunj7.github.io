@@ -1,5 +1,26 @@
 [
   {
+    "path": "packages/2021-06-13-lter-datasampler/",
+    "title": "LTER datasampler",
+    "description": "Provide a set of data sets  to teach Data Science",
+    "author": [
+      {
+        "name": "Allison Horst",
+        "url": {}
+      },
+      {
+        "name": "Julien Brun",
+        "url": {}
+      }
+    ],
+    "date": "2020-09-01",
+    "categories": [],
+    "contents": "\nlterdatasampler is an R package that provides small data sets (data samples) from the Long Term Ecological Research program (LTER) to be useful for teaching and training in (environmental) data science. Each data set as an accompanying vignette that provides a teaching example. Its content is thus not suitable for research and should only be used for teaching purposes.\nPackage website: https://lter.github.io/lterdatasampler/\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-02-11T16:54:38-08:00",
+    "input_file": {}
+  },
+  {
     "path": "packages/2021-01-20-camelsdata/",
     "title": "camelsdata",
     "description": "Processing of NCAR Catchment Attributes and Meteorology for Large-sample Studies (CAMELS) data using R.",
