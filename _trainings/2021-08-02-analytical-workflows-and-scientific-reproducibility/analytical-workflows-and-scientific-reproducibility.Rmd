@@ -1,7 +1,7 @@
 ---
 title: "Analytical Workflows and Scientific Reproducibility"
 description: |
-  This course will introduce graduate students to conceptual organization of workflows as a way to conduct reproducible analyses
+  This course introduces graduate students to conceptual organization of workflows as a way to conduct reproducible analyses
 author:
   - name: Julien Brun
     url: {https://brunj7.github.io/EDS-214-analytical-workflows/}
