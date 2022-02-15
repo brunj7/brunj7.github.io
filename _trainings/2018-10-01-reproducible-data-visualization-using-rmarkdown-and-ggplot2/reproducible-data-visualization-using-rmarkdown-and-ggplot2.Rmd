@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Data Visualization using rmarkdown and ggplot2"
 description: |
-  A short description of the post.
+  A short introduction to `rmarkdown` and `ggplot2` 
 author:
   - name: Julien Brun
   - name: Lauren Hallett

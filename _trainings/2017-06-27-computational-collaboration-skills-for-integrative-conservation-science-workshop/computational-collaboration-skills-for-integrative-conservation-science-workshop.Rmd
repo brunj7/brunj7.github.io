@@ -1,7 +1,7 @@
 ---
 title: "Computational & collaboration skills for integrative conservation science workshop"
 description: |
-  A short description of the post.
+  A 4-day workshop to further develop scientific computing and open science best practices 
 author:
   - name: Julien Brun
   - name: Mark Schildhauer

@@ -239,7 +239,7 @@
   {
     "path": "trainings/2018-10-01-reproducible-data-visualization-using-rmarkdown-and-ggplot2/",
     "title": "Reproducible Data Visualization using rmarkdown and ggplot2",
-    "description": "A short description of the post.",
+    "description": "A short introduction to `rmarkdown` and `ggplot2`",
     "author": [
       {
         "name": "Julien Brun",
@@ -254,13 +254,13 @@
     "categories": [],
     "contents": "\nCurriculum at a glance\nParticipants will use of rmarkdown and ggplot2 to create document integrating R code, documentation and data visualization in compelling documents. The first half of the session will be focusing on an introduction to Rmarkdown and how this format can be used to make data processing and analysis more reproducible by combining, documentation and executable code chunks into one document, that can be rendered in different formats (html, PDF, …) to be shared. In the second half of this workshop, participants will take a deeper look into data visualization and how ggplot’s grammar of graphics approach can be used to conduct powerful data exploration and analysis visualizations. Basic knowledge of the R programming language recommended.\n\n\n\n\nWorkshop material:\nRepository: https://github.com/brunj7/reproducible-dataviz\nPresentation: https://brunj7.github.io/reproducible-dataviz/rmarkdown-intro_deck.html\nEvent Link: https://2018lterallscientistsmeeting.sched.com/event/FYq5\n\n\n\n",
     "preview": "trainings/2018-10-01-reproducible-data-visualization-using-rmarkdown-and-ggplot2/stickynotes.png",
-    "last_modified": "2021-01-30T20:40:25-08:00",
+    "last_modified": "2022-02-14T23:44:43-08:00",
     "input_file": {}
   },
   {
     "path": "trainings/2017-06-27-computational-collaboration-skills-for-integrative-conservation-science-workshop/",
     "title": "Computational & collaboration skills for integrative conservation science workshop",
-    "description": "A short description of the post.",
+    "description": "A 4-day workshop to further develop scientific computing and open science best practices",
     "author": [
       {
         "name": "Julien Brun",
@@ -275,7 +275,7 @@
     "categories": [],
     "contents": "\nCurriculum at a glance\nThis training brought together Science for Nature and People Partnership (SNAPP) postdoctoral associates and technical liaisons to foster community and collaboration, as well as promote scientific computing and open science best practices. Topics included data modeling, manipulation and visualization; collaborative and open science principles and techniques; geospatial analysis; and coding best practices.\n\n\nknitr::include_graphics(\"DS_venn.png\")\n\n\n\n\nFigure 1: Image Attribution: Drew Conwa http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram\n\n\n\n\nWorkshop material:\nmaterials: https://github.com/NCEAS/2016-postdoc-training\n\n\n\n",
     "preview": "trainings/2017-06-27-computational-collaboration-skills-for-integrative-conservation-science-workshop/DS_venn.png",
-    "last_modified": "2021-01-30T21:00:25-08:00",
+    "last_modified": "2022-02-14T23:43:24-08:00",
     "input_file": {}
   }
 ]
