@@ -1,8 +1,8 @@
 [
   {
     "path": "trainings/2021-09-27-metadata-standards-data-modeling-and-data-semantics/",
-    "title": "Metadata Standards, Data Modeling and Data Semantics",
-    "description": "This course introduce graduate students to the reuse and preservation of envrionmental data.",
+    "title": "Lecturer -- Metadata Standards, Data Modeling and Data Semantics",
+    "description": "This course introduces graduate students to the reuse and preservation of envrionmental data.",
     "author": [
       {
         "name": "Julien Brun",
@@ -13,15 +13,15 @@
     ],
     "date": "2021-09-27",
     "categories": [],
-    "contents": "\nCourse syllabus:\nThis course will cover the concept of metadata and how it can be leveraged for the integration of heterogeneous datasets into standardized data products. We will practice how to download data from data repositories both manually and programmatically relying on APIs. We will also discuss how to track the provenance of data, generate metadata integrating data semantics to increase data discovery, as well as archiving data products on data repositories to make them available to the broader community.\nCourse website: https://brunj7.github.io/EDS-213-metadata/\n\n\n\n\n\n\n",
+    "contents": "\nThis course is part of the Master of Environmental Data Science (MEDS) degree at the Bren School of Environmental Science and Management at UC Santa Barbara. MEDS is an 11-month professional degree program focused on using data science to advance solutions to environmental problems.\nCourse syllabus:\nThis course will cover the concept of metadata and how it can be leveraged for the integration of heterogeneous datasets into standardized data products. We will practice how to download data from data repositories both manually and programmatically relying on APIs. We will also discuss how to track the provenance of data, generate metadata integrating data semantics to increase data discovery, as well as archiving data products on data repositories to make them available to the broader community.\nCourse website: https://brunj7.github.io/EDS-213-metadata/\n\n\n\n\n\n\n",
     "preview": "trainings/2021-09-27-metadata-standards-data-modeling-and-data-semantics/meds_hex.png",
-    "last_modified": "2022-02-11T16:42:50-08:00",
-    "input_file": {}
+    "last_modified": "2022-02-26T16:53:16-08:00",
+    "input_file": "metadata-standards-data-modeling-and-data-semantics.knit.md"
   },
   {
     "path": "trainings/2021-08-02-analytical-workflows-and-scientific-reproducibility/",
-    "title": "Analytical Workflows and Scientific Reproducibility",
-    "description": "This course will introduce graduate students to conceptual organization of workflows as a way to conduct reproducible analyses",
+    "title": "Lecturer -- Analytical Workflows and Scientific Reproducibility",
+    "description": "This course introduces graduate students to conceptual organization of workflows as a way to conduct reproducible analyses",
     "author": [
       {
         "name": "Julien Brun",
@@ -32,10 +32,10 @@
     ],
     "date": "2021-08-02",
     "categories": [],
-    "contents": "\nCourse syllabus:\nThe generation and analysis of environmental data is often a complex, multi-step process that may involve the collaboration of many people. Increasingly tools that document and help to organize workflows are being used to ensure reproducibility, shareability, and transparency of the results. This course will introduce students to the conceptual organization of workflows (including code, documents, and data) as a way to conduct reproducible analyses. These concepts will be combined with the practice of various software tools and collaborative coding techniques to develop and manage multi-step analytical workflows as a team.\nCourse website: https://brunj7.github.io/EDS-214-analytical-workflows/\n\n\n\n\n\n\n",
+    "contents": "\nThis course is part of the Master of Environmental Data Science (MEDS) degree at the Bren School of Environmental Science and Management at UC Santa Barbara. MEDS is an 11-month professional degree program focused on using data science to advance solutions to environmental problems.\nCourse syllabus:\nThe generation and analysis of environmental data is often a complex, multi-step process that may involve the collaboration of many people. Increasingly tools that document and help to organize workflows are being used to ensure reproducibility, shareability, and transparency of the results. This course will introduce students to the conceptual organization of workflows (including code, documents, and data) as a way to conduct reproducible analyses. These concepts will be combined with the practice of various software tools and collaborative coding techniques to develop and manage multi-step analytical workflows as a team.\nCourse website: https://brunj7.github.io/EDS-214-analytical-workflows/\n\n\n\n\n\n\n",
     "preview": "trainings/2021-08-02-analytical-workflows-and-scientific-reproducibility/meds_hex.png",
-    "last_modified": "2022-02-11T16:42:42-08:00",
-    "input_file": {}
+    "last_modified": "2022-02-26T16:53:26-08:00",
+    "input_file": "analytical-workflows-and-scientific-reproducibility.knit.md"
   },
   {
     "path": "trainings/2021-01-01-mentor-for-ucsb-data-science-capstone-project/",

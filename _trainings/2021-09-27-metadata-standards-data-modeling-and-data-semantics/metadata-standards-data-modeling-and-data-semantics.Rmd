@@ -1,5 +1,5 @@
 ---
-title: "Metadata Standards, Data Modeling and Data Semantics"
+title: "Lecturer -- Metadata Standards, Data Modeling and Data Semantics"
 description: |
   This course introduces graduate students to the reuse and preservation of envrionmental data.
 author:
@@ -15,6 +15,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+This course is part of the Master of Environmental Data Science (MEDS) degree at the Bren School of Environmental Science and Management at UC Santa Barbara. MEDS is an 11-month professional degree program focused on using data science to advance solutions to environmental problems.  
 
 **Course syllabus:**
 
