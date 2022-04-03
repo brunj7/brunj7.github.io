@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Hi there, I'm a  **Senior Data Scientist**  at the National Center for Ecological Synthesis and Analysis (NCEAS), UC Santa Barbara. 
 
-The core of my work is to understand data and computing challenges our researchers are facing and help them to translate these challenges into solvable tasks.  I advise and mentor them on how to clean, structure, combine and analyze their heterogeneous data sets, as well as scaling up their analysis, while promoting open and reproducible data science principles.
+The core of my work is to understand the data and computing challenges our researchers are facing and help them to translate these challenges into solvable tasks.  I advise and mentor them on how to clean, structure, combine and analyze their heterogeneous data sets, as well as scaling up their analysis while promoting open and reproducible data science principles.
 
 I am also a  **Lecturer**  in the Master in Environmental Data Science program at Bren School of Environmental Science and Management at UC Santa Barbara, where I teach "good enough" practices in reproducible and collaborative data science.
 
