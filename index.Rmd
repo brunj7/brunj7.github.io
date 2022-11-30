@@ -6,7 +6,7 @@ links:
   - label: GitHub
     url: "https://github.com/brunj7"
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/julien--brun"
+    url: "www.linkedin.com/in/brun-julien"
   - label: Twitter
     url: "https://twitter.com/brunj7"
 output:
