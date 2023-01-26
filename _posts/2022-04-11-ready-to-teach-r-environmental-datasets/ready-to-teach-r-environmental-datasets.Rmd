@@ -1,7 +1,5 @@
 ---
 title: "Ready-To-Teach R Environmental Datasets: The lterdatasampler R Package"
-description: |
-  There are a ton of repositories full of environmental data of all flavors. However it can take a teacher a really long time to locate, download, explore, curate, test, and make a lesson with them from scratch.
 author:
   - name: Allison Horst
   - name: Julien Brun
