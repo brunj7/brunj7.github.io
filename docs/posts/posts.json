@@ -2,7 +2,7 @@
   {
     "path": "posts/2022-04-11-ready-to-teach-r-environmental-datasets/",
     "title": "Ready-To-Teach R Environmental Datasets: The lterdatasampler R Package",
-    "description": {},
+    "description": "Today we are excited to share with the broader R community a new collection of 8 data samples geared towards teaching environmental data science—and beyond!",
     "author": [
       {
         "name": "Allison Horst",
@@ -17,7 +17,7 @@
     "categories": [],
     "contents": "\nAbstract\nThe issue with finding datasets for our teaching isn’t a lack of openly available environmental data – there are a ton of repositories full of environmental data of all flavors. It can take a teacher a really long time to locate, download, explore, curate, test, and make a lesson with them from scratch. Given how burdensome it can be for environmental science teachers to find and prepare datasets for data science and statistics courses, we thought it would be really useful for environmental data science instructors to have access to an openly available collection of curated datasets. Our goal was to make these learner-friendly, real-world environmental data that can help students consider environmental questions and learn data science and stats skills at the same time.\nOriginal post on LTER website:\nhttps://lternet.edu/stories/ready-to-teach-r-environmental-datasets-the-lterdatasampler-r-package/\n\n\n\n",
     "preview": {},
-    "last_modified": "2023-01-25T21:29:15-08:00",
+    "last_modified": "2023-01-25T21:34:55-08:00",
     "input_file": {}
   },
   {

@@ -1,5 +1,7 @@
 ---
 title: "Ready-To-Teach R Environmental Datasets: The lterdatasampler R Package"
+description: |
+  Today we are excited to share with the broader R community a new collection of 8 data samples geared towards teaching environmental data science—and beyond!
 author:
   - name: Allison Horst
   - name: Julien Brun
