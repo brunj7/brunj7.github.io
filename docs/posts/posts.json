@@ -17,7 +17,7 @@
     "categories": [],
     "contents": "\nAbstract\nThe issue with finding datasets for our teaching isn’t a lack of openly available environmental data – there are a ton of repositories full of environmental data of all flavors. It can take a teacher a really long time to locate, download, explore, curate, test, and make a lesson with them from scratch. Given how burdensome it can be for environmental science teachers to find and prepare datasets for data science and statistics courses, we thought it would be really useful for environmental data science instructors to have access to an openly available collection of curated datasets. Our goal was to make these learner-friendly, real-world environmental data that can help students consider environmental questions and learn data science and stats skills at the same time.\nOriginal post on LTER website:\nhttps://lternet.edu/stories/ready-to-teach-r-environmental-datasets-the-lterdatasampler-r-package/\n\n\n\n",
     "preview": {},
-    "last_modified": "2023-01-25T21:34:55-08:00",
+    "last_modified": "2023-08-25T09:31:21-07:00",
     "input_file": {}
   },
   {
@@ -54,7 +54,7 @@
     "categories": [],
     "contents": "\nAbstract\nThe pandemic has shifted virtual collaboration from being something practiced by some people to being the primary mode of interaction for everyone for the foreseeable future. A lot of resources have been produced and shared to help people adapt to the challenges and liabilities of virtual collaboration. At NCEAS, we wanted to see if there were additional ways we could “leverage the liabilities” of virtual collaboration, to find things that virtual collaboration actually does better. Here are some things we have been experimenting with and the insights they are producing.\nOriginal post on Ecotone website:\nhttps://www.esa.org/esablog/2020/06/03/ecology-and-covid-4-leveraging-the-liabilities-of-virtual-collaboration/\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-05-27T15:59:37-07:00",
+    "last_modified": "2023-08-25T09:31:21-07:00",
     "input_file": {}
   },
   {
@@ -79,7 +79,7 @@
     "categories": [],
     "contents": "\nAbstract\nIn this module, we wanted to empower multi-institutional and cross-sectoral science teams to collaboratively develop reproducible workflows for data-driven projects. The idea was to take remote, decentralized teams and help them to develop a centralized mindset and toolkit for data & code while working remotely. Our goal was to expose participants to “good enough” tools and practices to develop common practices that will enable them to collaborate efficiently among each other, but also with their future selves. We focused on the centralization and management of the information, data and code they will be collecting and developing over their two-year project; stressing that for each part of their workflow, everyone should be encouraged and enabled to contribute no matter their technical skills.\nOriginal post on NCEAS website:\nhttps://www.nceas.ucsb.edu/news/developing-reproducible-workflows-collaboratively\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-01-11T17:39:50-08:00",
+    "last_modified": "2023-08-25T09:31:21-07:00",
     "input_file": {}
   },
   {
@@ -104,7 +104,7 @@
     "categories": [],
     "contents": "\nAbstract\nThe National Center for Ecological Analysis and Synthesis (NCEAS) funds Working Groups of 15-20 scientists from across disciplines and sectors to collaborate on environmental synthesis science projects. In this time of pandemic, groups that would typically be meeting in person four times over ~two years are now faced with launching their projects virtually. NCEAS is providing training and support to help those teams kickstart their research collaborations remotely. In this blog we highlight some of the key takeaways and best practices from our first remote support module, delivered to a cohort of four Working Groups that are launching projects this spring.\nOriginal post on NCEAS website:\nhttps://www.nceas.ucsb.edu/news/kick-starting-scientific-collaborations-remotely\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-01-11T17:40:36-08:00",
+    "last_modified": "2023-08-25T09:31:21-07:00",
     "input_file": {}
   },
   {
@@ -137,7 +137,7 @@
     "categories": [],
     "contents": "\nAbstract\nFor researchers in states with do-not-work orders or from institutions that have shuttered their research operations, there may be no decision to make about whether to continue fieldwork. But those that the virus has been slow to find are now faced with a choice: continue field measurements and manipulations or halt them voluntarily and accept the cost to their science and sometimes their budgets.\nOriginal post on Ecotone website:\nhttps://www.esa.org/esablog/2020/04/14/ecology-and-covid-19-1-to-go-or-not-to-go-in-the-field/\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-05-27T16:12:19-07:00",
+    "last_modified": "2023-08-25T09:31:21-07:00",
     "input_file": {}
   }
 ]

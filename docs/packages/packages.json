@@ -17,7 +17,7 @@
     "categories": [],
     "contents": "\nlterdatasampler is an R package that provides small data sets (data samples) from the Long Term Ecological Research program (LTER) to be useful for teaching and training in (environmental) data science. Each data set as an accompanying vignette that provides a teaching example. Its content is thus not suitable for research and should only be used for teaching purposes.\n\n\n\nPackage website: https://lter.github.io/lterdatasampler/\n\n\n\n",
     "preview": "packages/2021-06-13-lter-datasampler/lterdatasampler_hex_draft.png",
-    "last_modified": "2022-02-25T12:44:14-08:00",
+    "last_modified": "2023-08-25T09:31:21-07:00",
     "input_file": {}
   },
   {
@@ -38,7 +38,7 @@
     "categories": [],
     "contents": "\ncamelsquery eases the processing of NCAR Catchment Attributes and Meteorology for Large-sample Studies (CAMELS) data using R. It requires as input a set of USGS stream gages (here for more). This package offers a function for downloading the CAMELS data automatically, a function to process CAMELS data and integrate them with USGS daily streamflow and water quality gauge data.\nCAMELS data: https://ral.ucar.edu/solutions/products/camels\nGitHub repository: https://github.com/brunj7/CamelsQuery\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-01-20T18:49:31-08:00",
+    "last_modified": "2023-08-25T09:31:21-07:00",
     "input_file": {}
   },
   {
@@ -63,7 +63,7 @@
     "categories": [],
     "contents": "\nmetajam is an R package to ease the Download and import of data and metadata from repositories in the DataONE federation of data repository into R.\n\n\n\nPackage website: https://nceas.github.io/metajam/\n\n\n\n",
     "preview": "packages/2021-01-20-metajam/metajam_hex.png",
-    "last_modified": "2021-01-30T21:08:07-08:00",
+    "last_modified": "2023-08-25T09:31:21-07:00",
     "input_file": {}
   }
 ]
