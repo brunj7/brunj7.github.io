@@ -20,6 +20,4 @@ navbar:
       href: packages.html
     - icon: fab fa-github
       href: https://github.com/brunj7
-    - icon: fa fa-twitter
-      href: https://twitter.com/brunj7
 output: distill::distill_article
