@@ -7,6 +7,8 @@ links:
     url: "https://github.com/brunj7"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/brun-julien/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=aoRF59sAAAAJ&hl=en&oi=ao"
 output:
   postcards::trestles
 ---
@@ -24,7 +26,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-Hi there, I am a **Research Facilitator** at UC Santa Barbara (UCSB) Library. 
+Hi there, I am the Earth and Environmental Sciences **Research Facilitator** at UC Santa Barbara (UCSB) Library. 
 
 I am passionate about helping researchers in environmental sciences to make their work more reproducible by relying on my data science skills to advise them on how to leverage data management practices and programming tools to make their work more reusable and collaborate better.
 

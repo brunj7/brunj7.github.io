@@ -5,41 +5,41 @@
       "title": "About Me",
       "author": [],
       "contents": "\n\n\n\n\nI am a Research Facilitator at UC Santa Barbara (UCSB) Library.\nThe core of my work is to understand the data and computing challenges researchers are facing and advise them on how to leverage best practices and tools to solve those challenges while helping them to make their work more open and reproducible. I am also a Lecturer in the Master in Environmental Data Science (MEDS) program at Bren School of Environmental Science and Management at UC Santa Barbara, where I teach “good enough” practices in reproducible and collaborative data science and data management.\nMy scientific expertise is in ecohydrology, Earth observation techniques (remote sensing and GIS), and process-based modeling. Prior to conducting my PhD on the ecohydrological impacts of tropical cyclones in the Southeastern US, I conducted several projects on land cover change, vegetation monitoring, and disaster mapping for governmental and international institutions.\nBefore this, I was a Data Engineer Lead in a tech company developing data pipelines to extract location insights from geospatial information.\nI am also involved in the development of several R packages, including the lterdatasampler (https://cran.r-project.org/web/packages/lterdatasampler/) in collaboration with Allison Horst and the metajam R package (https://cran.r-project.org/web/packages/metajam/).\nOn the personal side, I enjoy chocolate crunching, downhill skiing, mountain biking, and playing records on vintage Hi-Fi!\n\n\n\n",
-      "last_modified": "2024-04-15T14:09:22-07:00"
+      "last_modified": "2025-08-18T16:05:18-07:00"
     },
     {
       "path": "blogs.html",
       "title": "Blogs",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-04-15T14:09:22-07:00"
+      "last_modified": "2025-08-18T16:05:18-07:00"
     },
     {
       "path": "brunj7.html",
       "author": [],
       "contents": "\nVersion: 1.0\nRestoreWorkspace: Default\nSaveWorkspace: Default\nAlwaysSaveHistory: Default\nEnableCodeIndexing: Yes\nUseSpacesForTab: Yes\nNumSpacesForTab: 4\nEncoding: UTF-8\nRnwWeave: Sweave\nLaTeX: pdfLaTeX\nBuildType: Website\n\n\n\n",
-      "last_modified": "2024-04-15T14:09:23-07:00"
+      "last_modified": "2025-08-18T16:05:19-07:00"
     },
     {
       "path": "index.html",
       "title": "Julien Brun, PhD",
       "author": [],
-      "contents": "\n\n          \n          \n          @brunj7\n          \n          \n          Home\n          About Me\n          Blogs\n          Trainings\n          R Packages\n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Julien Brun, PhD\n            \n            \n              \n                \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        LinkedIn\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            Hi there, I am a Research Facilitator at\n            UC Santa Barbara (UCSB) Library.\n            I am passionate about helping researchers in\n            environmental sciences to make their work more reproducible\n            by relying on my data science skills to advise them on how\n            to leverage data management practices and programming tools\n            to make their work more reusable and collaborate better.\n            Want to know more? click here\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Julien Brun, PhD\n            \n            \n              \n                \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                  \n              \n            \n            \n              Hi there, I am a Research Facilitator\n              at UC Santa Barbara (UCSB) Library.\n              I am passionate about helping researchers in\n              environmental sciences to make their work more\n              reproducible by relying on my data science skills to\n              advise them on how to leverage data management practices\n              and programming tools to make their work more reusable and\n              collaborate better.\n              Want to know more? click here\n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2024-04-15T14:09:24-07:00"
+      "contents": "\n\n          \n          \n          @brunj7\n          \n          \n          Home\n          About Me\n          Blogs\n          Trainings\n          R Packages\n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Julien Brun, PhD\n            \n            \n              \n                \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Google Scholar\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            Hi there, I am a Research Facilitator at\n            UC Santa Barbara (UCSB) Library.\n            I am passionate about helping researchers in\n            environmental sciences to make their work more reproducible\n            by relying on my data science skills to advise them on how\n            to leverage data management practices and programming tools\n            to make their work more reusable and collaborate better.\n            Want to know more? click here\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Julien Brun, PhD\n            \n            \n              \n                \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                    \n                    \n                      Google Scholar\n                    \n                  \n                                  \n              \n            \n            \n              Hi there, I am a Research Facilitator\n              at UC Santa Barbara (UCSB) Library.\n              I am passionate about helping researchers in\n              environmental sciences to make their work more\n              reproducible by relying on my data science skills to\n              advise them on how to leverage data management practices\n              and programming tools to make their work more reusable and\n              collaborate better.\n              Want to know more? click here\n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2025-08-18T16:05:20-07:00"
     },
     {
       "path": "packages.html",
       "title": "R packages",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-04-15T14:09:25-07:00"
+      "last_modified": "2025-08-18T16:05:21-07:00"
     },
     {
       "path": "trainings.html",
       "title": "Trainings",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-04-15T14:09:25-07:00"
+      "last_modified": "2025-08-18T16:05:21-07:00"
     }
   ],
   "collections": ["posts/posts.json", "packages/packages.json", "trainings/trainings.json"]
