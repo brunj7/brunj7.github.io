@@ -1,7 +1,0 @@
----
-title: "R Packages"
-listing:
-  contents: packages
-  sort: "date desc"
-  type: default
----
