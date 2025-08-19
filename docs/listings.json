@@ -26,6 +26,7 @@
   {
     "listing": "/blogs.html",
     "items": [
+      "/posts/2024-11-1-reproducible-collaborative-lab/reproducible-and-collaborative-lab.html",
       "/posts/2025-02-05-lego-data-management/lego-data-management.html",
       "/posts/2022-04-11-ready-to-teach-r-environmental-datasets/ready-to-teach-r-environmental-datasets.html",
       "/posts/2021-05-27-leveraging-the-liabilities-of-virtual-collaboration/leveraging-the-liabilities-of-virtual-collaboration.html",
@@ -33,9 +34,5 @@
       "/posts/2020-05-04-kick-starting-scientific-collaborations-remotely/kick-starting-scientific-collaborations-remotely.html",
       "/posts/2021-05-27-to-go-or-not-to-go-in-the-field/to-go-or-not-to-go-in-the-field.html"
     ]
-  },
-  {
-    "listing": "/index.html",
-    "items": []
   }
 ]
