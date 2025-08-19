@@ -270,7 +270,7 @@
     "href": "blogs.html",
     "title": "Blogs",
     "section": "",
-    "text": "Ready-To-Teach R Environmental Datasets: The lterdatasampler R Package\n\n\nToday we are excited to share with the broader R community a new collection of 8 data samples geared towards teaching environmental data science—and beyond!\n\n\n\n\n\nApr 11, 2022\n\n\nAllison Horst, Julien Brun\n\n\n\n\n\n\n\n\n\n\n\n\nLeveraging the liabilities of virtual collaboration\n\n\nWe wanted to see if there were additional ways we could “leverage the liabilities” of virtual collaboration, to find things that virtual collaboration actually does better..\n\n\n\n\n\nJun 3, 2020\n\n\nBen Halpern, Julien Brun, Amber Budden, Marty Downs, Carrie Kappel, Julie Lowndes\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping reproducible workflows collaboratively\n\n\nIn this blog we highlight some of the key takeaways and best practices from our second remote support module to collaborate in a more reproducible and data-driven way.\n\n\n\n\n\nMay 29, 2020\n\n\nJulien Brun, Julie Lowndes, Carrie Kappel\n\n\n\n\n\n\n\n\n\n\n\n\nKick-starting scientific collaborations remotely\n\n\nIn this blog we highlight some of the key takeaways and best practices from our first remote support module, delivered to a cohort of four Working Groups that are launching projects this spring.\n\n\n\n\n\nMay 4, 2020\n\n\nJulie Lowndes, Carrie Kappel, Julien Brun\n\n\n\n\n\n\n\n\n\n\n\n\nTo go or not to go (in the field)?\n\n\nChoosing whether to maintain long-term experiments during COVID poses a difficult dilemma.\n\n\n\n\n\nApr 14, 2020\n\n\nMarty Downs, Frank Davis, Jenn Caselle, Julien Brun, Kristen Weiss\n\n\n\n\n\nNo matching items"
+    "text": "Ready-To-Teach R Environmental Datasets: The lterdatasampler R Package\n\n\nToday we are excited to share with the broader R community a new collection of 8 data samples geared towards teaching environmental data science—and beyond!\n\n\n\n\n\nFeb 5, 2025\n\n\nJulien Brun, Greg Janée\n\n\n\n\n\n\n\n\n\n\n\n\nReady-To-Teach R Environmental Datasets: The lterdatasampler R Package\n\n\nToday we are excited to share with the broader R community a new collection of 8 data samples geared towards teaching environmental data science—and beyond!\n\n\n\n\n\nApr 11, 2022\n\n\nAllison Horst, Julien Brun\n\n\n\n\n\n\n\n\n\n\n\n\nLeveraging the liabilities of virtual collaboration\n\n\nWe wanted to see if there were additional ways we could “leverage the liabilities” of virtual collaboration, to find things that virtual collaboration actually does better..\n\n\n\n\n\nJun 3, 2020\n\n\nBen Halpern, Julien Brun, Amber Budden, Marty Downs, Carrie Kappel, Julie Lowndes\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping reproducible workflows collaboratively\n\n\nIn this blog we highlight some of the key takeaways and best practices from our second remote support module to collaborate in a more reproducible and data-driven way.\n\n\n\n\n\nMay 29, 2020\n\n\nJulien Brun, Julie Lowndes, Carrie Kappel\n\n\n\n\n\n\n\n\n\n\n\n\nKick-starting scientific collaborations remotely\n\n\nIn this blog we highlight some of the key takeaways and best practices from our first remote support module, delivered to a cohort of four Working Groups that are launching projects this spring.\n\n\n\n\n\nMay 4, 2020\n\n\nJulie Lowndes, Carrie Kappel, Julien Brun\n\n\n\n\n\n\n\n\n\n\n\n\nTo go or not to go (in the field)?\n\n\nChoosing whether to maintain long-term experiments during COVID poses a difficult dilemma.\n\n\n\n\n\nApr 14, 2020\n\n\nMarty Downs, Frank Davis, Jenn Caselle, Julien Brun, Kristen Weiss\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "packages/2021-01-20-metajam/metajam.html",
@@ -285,5 +285,26 @@
     "title": "@brunj7",
     "section": "",
     "text": "Version: 1.0\nRestoreWorkspace: Default SaveWorkspace: Default AlwaysSaveHistory: Default\nEnableCodeIndexing: Yes UseSpacesForTab: Yes NumSpacesForTab: 4 Encoding: UTF-8\nRnwWeave: Sweave LaTeX: pdfLaTeX\nBuildType: Website"
+  },
+  {
+    "objectID": "posts/2025-02-05-lego-data-management/lego-data-management.html",
+    "href": "posts/2025-02-05-lego-data-management/lego-data-management.html",
+    "title": "Ready-To-Teach R Environmental Datasets: The lterdatasampler R Package",
+    "section": "",
+    "text": "What 1is the link between Legos and reproducible science practices? Documentation! In this exercise, students build a specific Lego structure and document the steps they used to build it. Then another team tries to reproduce the structure following the instructions. However the replicas are not always identical to the original!! This fun exercise exposes students to the importance of documenting their work and not wait until the end of the project to make their work reproducible."
+  },
+  {
+    "objectID": "posts/2025-02-05-lego-data-management/lego-data-management.html#abstract",
+    "href": "posts/2025-02-05-lego-data-management/lego-data-management.html#abstract",
+    "title": "Ready-To-Teach R Environmental Datasets: The lterdatasampler R Package",
+    "section": "",
+    "text": "What 1is the link between Legos and reproducible science practices? Documentation! In this exercise, students build a specific Lego structure and document the steps they used to build it. Then another team tries to reproduce the structure following the instructions. However the replicas are not always identical to the original!! This fun exercise exposes students to the importance of documenting their work and not wait until the end of the project to make their work reproducible."
+  },
+  {
+    "objectID": "posts/2025-02-05-lego-data-management/lego-data-management.html#original-post-on-the-ucsb-current-website",
+    "href": "posts/2025-02-05-lego-data-management/lego-data-management.html#original-post-on-the-ucsb-current-website",
+    "title": "Ready-To-Teach R Environmental Datasets: The lterdatasampler R Package",
+    "section": "Original post on The UCSB Current website:",
+    "text": "Original post on The UCSB Current website:\nhttps://news.ucsb.edu/2025/021746/lego-bricks-teach-replication-skills-fun-way"
   }
 ]
