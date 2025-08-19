@@ -1,0 +1,39 @@
+---
+title: "Data Science and Collaboration Skills for Integrative Conservation Science"
+description: |
+  This training, sponsored by the Science for Nature And People Partnership (SNAPP), aims to bring together the SNAPP and NCEAS postdoctoral associates to foster communities and collaboration, as well as promote scientific computing and open science best practices.
+author:
+  - name: Julien Brun
+  - name: Carrie Kappel
+  - name: Jeanette Clark
+date: 02-18-2020
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This intensive 4-day workshop on Data Science and Collaboration Skills for Integrative Conservation Science was held at [NCEAS](https://www.nceas.ucsb.edu/), Santa Barbara, CA from Feb 18 to Feb 21, 2020.
+
+## Curriculum at a glance 
+
+The goals of this workshop are to:
+
+- Integrate collaborative science best practices within SNAPP Working Groups
+- Empower participants to adopt computing best practices in their scientific workflows and data management
+- Create a greater sense of SNAPP community
+- Foster potential collaboration and enhanced knowledge-sharing across SNAPP Working Groups
+- Familiarize and instruct SNAPP researchers in the use of NCEAS (and other) analytical servers and services
+- Discuss mechanisms that have helped SNAPP groups to advance SNAPP’s commitment to open science
+
+```{r fig.align='center'}
+knitr::include_graphics("curriculum.png")
+```
+
+<br>
+
+**Training website:**
+https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp
+
+**Pre-training R assessment:** https://cosima.nceas.ucsb.edu/r-self-assessment/#section-assessment

@@ -1,0 +1,24 @@
+---
+title: "LTER datasampler"
+description: |
+  Provide a set of data sets  to teach Data Science
+author:
+  - name: Allison Horst
+  - name: Julien Brun
+date: 2020-09-01
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+`lterdatasampler` is an R package that provides small data sets (data samples) from the Long Term Ecological Research program ([LTER](https://lternet.edu/)) to be useful for teaching and training in (environmental) data science. Each data set as an accompanying vignette that provides a teaching example. _Its content is thus not suitable for research and should only be used for teaching purposes._
+
+```{r fig.align='center'}
+knitr::include_graphics("lterdatasampler_hex_draft.png")
+```
+
+
+Package website: https://lter.github.io/lterdatasampler/
+

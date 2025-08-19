@@ -1,0 +1,40 @@
+---
+title: "NEON Postdoctoral Researchers Onboarding"
+description: |
+  A self guided learning curricula to support new NEON Postdoctoral Fellows as part of their onboarding experience. The curricula builds from the experience of ecological researchers, trainers, developers and information managers to provide resources and training in support of collaborative, reproducible research practices.
+author:
+  - name: Julien Brun
+  - name: Amber Budden
+  - name: Jeanette Clark
+  - name: Matt Jones
+  - name: Carrie Kappel
+  - name: Erin McLean
+  - name: Bryce Mecum
+  - name: William Michener
+  - name: Julie Stewart Lowndes
+  - name: Geoff Willard
+date: 12-20-2020
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This onboarding document is designed to support researchers beginning their postdoctoral work with National Ecological Observatory Network ([NEON](https://www.neonscience.org/)) in a way that provides access to information, resources and training in open practices and team science. Developing good data science skills will enable researchers to maximize their productivity, share their data with the scientific community effectively and efficiently, and benefit from the re-use of their data by others.
+
+**Training website:**
+https://learning.nceas.ucsb.edu/2020-12-neon/ 
+
+**Blog post:**
+https://www.nceas.ucsb.edu/news/nceas-neon-onboarding 
+
+
+
+```{r fig.align='center'}
+knitr::include_graphics("logos_neon_nceas.png")
+```
+
+
+
+

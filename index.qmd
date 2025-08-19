@@ -1,0 +1,23 @@
+---
+title: "Julien Brun, PhD"
+image: "images/brunj7.jpg"
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: GitHub
+      href: "https://github.com/brunj7"
+    - text: LinkedIn
+      href: "https://www.linkedin.com/in/brun-julien/"
+    - text: Google Scholar
+      href: "https://scholar.google.com/citations?user=aoRF59sAAAAJ&hl=en&oi=ao"
+---
+
+Hi there, I am the Earth and Environmental Sciences **Research Facilitator** at UC Santa Barbara (UCSB) Library. 
+
+I am passionate about helping researchers in environmental sciences to make their work more reproducible by relying on my data science skills to advise them on how to leverage data management practices and programming tools to make their work more reusable and collaborate better.
+
+
+Want to know more? click [here](about.html)

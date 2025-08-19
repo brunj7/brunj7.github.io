@@ -1,0 +1,40 @@
+[
+  {
+    "listing": "/packages.html",
+    "items": [
+      "/packages/2021-06-13-lter-datasampler/lter-datasampler.html",
+      "/packages/2021-01-20-camelsdata/camelsdata.html",
+      "/packages/2021-01-20-metajam/metajam.html"
+    ]
+  },
+  {
+    "listing": "/trainings.html",
+    "items": [
+      "/trainings/2021-09-27-metadata-standards-data-modeling-and-data-semantics/metadata-standards-data-modeling-and-data-semantics.html",
+      "/trainings/2021-08-02-analytical-workflows-and-scientific-reproducibility/analytical-workflows-and-scientific-reproducibility.html",
+      "/trainings/2021-01-01-mentor-for-ucsb-data-science-capstone-project/mentor-for-ucsb-data-science-capstone-project.html",
+      "/trainings/2020-12-20-neon-onboarding/neon-onboarding.html",
+      "/trainings/2020-05-08-tools-and-practices-for-collaborative-reproducible-data-science/tools-and-practices-for-collaborative-reproducible-data-science.html",
+      "/trainings/2020-04-24-efficient-virtual-collaboration-facilitation-for-synthesis-science/efficient-virtual-collaboration-facilitation-for-synthesis-science.html",
+      "/trainings/2020-02-18-data-science-and-collaboration-skills-for-integrative-conservation-science/data-science-and-collaboration-skills-for-integrative-conservation-science.html",
+      "/trainings/2019-01-22-introduction-to-rmarkdown/introduction-to-rmarkdown.html",
+      "/trainings/2018-07-10-open-science-for-synthesis-gulf-research-program-workshop/open-science-for-synthesis-gulf-research-program-workshop.html",
+      "/trainings/2018-10-01-reproducible-data-visualization-using-rmarkdown-and-ggplot2/reproducible-data-visualization-using-rmarkdown-and-ggplot2.html",
+      "/trainings/2017-06-27-computational-collaboration-skills-for-integrative-conservation-science-workshop/computational-collaboration-skills-for-integrative-conservation-science-workshop.html"
+    ]
+  },
+  {
+    "listing": "/blogs.html",
+    "items": [
+      "/posts/2022-04-11-ready-to-teach-r-environmental-datasets/ready-to-teach-r-environmental-datasets.html",
+      "/posts/2021-05-27-leveraging-the-liabilities-of-virtual-collaboration/leveraging-the-liabilities-of-virtual-collaboration.html",
+      "/posts/2020-05-29-developing-reproducible-workflows-collaboratively/developing-reproducible-workflows-collaboratively.html",
+      "/posts/2020-05-04-kick-starting-scientific-collaborations-remotely/kick-starting-scientific-collaborations-remotely.html",
+      "/posts/2021-05-27-to-go-or-not-to-go-in-the-field/to-go-or-not-to-go-in-the-field.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": []
+  }
+]

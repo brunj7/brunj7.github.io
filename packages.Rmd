@@ -1,5 +1,0 @@
----
-title: "R packages"
-site: distill::distill_website
-listing: packages
----

@@ -1,46 +1,289 @@
-{
-  "articles": [
-    {
-      "path": "about.html",
-      "title": "About Me",
-      "author": [],
-      "contents": "\n\n\n\n\nI am a Research Facilitator at UC Santa Barbara (UCSB) Library.\nThe core of my work is to understand the data and computing challenges researchers are facing and advise them on how to leverage best practices and tools to solve those challenges while helping them to make their work more open and reproducible. I am also a Lecturer in the Master in Environmental Data Science (MEDS) program at Bren School of Environmental Science and Management at UC Santa Barbara, where I teach “good enough” practices in reproducible and collaborative data science and data management.\nMy scientific expertise is in ecohydrology, Earth observation techniques (remote sensing and GIS), and process-based modeling. Prior to conducting my PhD on the ecohydrological impacts of tropical cyclones in the Southeastern US, I conducted several projects on land cover change, vegetation monitoring, and disaster mapping for governmental and international institutions.\nBefore this, I was a Data Engineer Lead in a tech company developing data pipelines to extract location insights from geospatial information.\nI am also involved in the development of several R packages, including the lterdatasampler (https://cran.r-project.org/web/packages/lterdatasampler/) in collaboration with Allison Horst and the metajam R package (https://cran.r-project.org/web/packages/metajam/).\nOn the personal side, I enjoy chocolate crunching, downhill skiing, mountain biking, and playing records on vintage Hi-Fi!\n\n\n\n",
-      "last_modified": "2025-08-18T16:05:18-07:00"
-    },
-    {
-      "path": "blogs.html",
-      "title": "Blogs",
-      "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2025-08-18T16:05:18-07:00"
-    },
-    {
-      "path": "brunj7.html",
-      "author": [],
-      "contents": "\nVersion: 1.0\nRestoreWorkspace: Default\nSaveWorkspace: Default\nAlwaysSaveHistory: Default\nEnableCodeIndexing: Yes\nUseSpacesForTab: Yes\nNumSpacesForTab: 4\nEncoding: UTF-8\nRnwWeave: Sweave\nLaTeX: pdfLaTeX\nBuildType: Website\n\n\n\n",
-      "last_modified": "2025-08-18T16:05:19-07:00"
-    },
-    {
-      "path": "index.html",
-      "title": "Julien Brun, PhD",
-      "author": [],
-      "contents": "\n\n          \n          \n          @brunj7\n          \n          \n          Home\n          About Me\n          Blogs\n          Trainings\n          R Packages\n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Julien Brun, PhD\n            \n            \n              \n                \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Google Scholar\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            Hi there, I am a Research Facilitator at\n            UC Santa Barbara (UCSB) Library.\n            I am passionate about helping researchers in\n            environmental sciences to make their work more reproducible\n            by relying on my data science skills to advise them on how\n            to leverage data management practices and programming tools\n            to make their work more reusable and collaborate better.\n            Want to know more? click here\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Julien Brun, PhD\n            \n            \n              \n                \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                    \n                    \n                      Google Scholar\n                    \n                  \n                                  \n              \n            \n            \n              Hi there, I am a Research Facilitator\n              at UC Santa Barbara (UCSB) Library.\n              I am passionate about helping researchers in\n              environmental sciences to make their work more\n              reproducible by relying on my data science skills to\n              advise them on how to leverage data management practices\n              and programming tools to make their work more reusable and\n              collaborate better.\n              Want to know more? click here\n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2025-08-18T16:05:20-07:00"
-    },
-    {
-      "path": "packages.html",
-      "title": "R packages",
-      "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2025-08-18T16:05:21-07:00"
-    },
-    {
-      "path": "trainings.html",
-      "title": "Trainings",
-      "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2025-08-18T16:05:21-07:00"
-    }
-  ],
-  "collections": ["posts/posts.json", "packages/packages.json", "trainings/trainings.json"]
-}
+[
+  {
+    "objectID": "packages.html",
+    "href": "packages.html",
+    "title": "R Packages",
+    "section": "",
+    "text": "LTER datasampler\n\n\nProvide a set of data sets to teach Data Science\n\n\n\n\n\nSep 1, 2020\n\n\nAllison Horst, Julien Brun\n\n\n\n\n\n\n\n\n\n\n\n\ncamelsdata\n\n\nProcessing of NCAR Catchment Attributes and Meteorology for Large-sample Studies (CAMELS) data using R.\n\n\n\n\n\nApr 20, 2020\n\n\nJulien Brun, Kyle Monper\n\n\n\n\n\n\n\n\n\n\n\n\nmetajam\n\n\nR package to Bringing data and metadata togetheR\n\n\n\n\n\nApr 20, 2018\n\n\nJulien Brun, Irene Steves, Mitchell Maier\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "packages/2021-06-13-lter-datasampler/lter-datasampler.html",
+    "href": "packages/2021-06-13-lter-datasampler/lter-datasampler.html",
+    "title": "LTER datasampler",
+    "section": "",
+    "text": "lterdatasampler is an R package that provides small data sets (data samples) from the Long Term Ecological Research program (LTER) to be useful for teaching and training in (environmental) data science. Each data set as an accompanying vignette that provides a teaching example. Its content is thus not suitable for research and should only be used for teaching purposes.\n\n\n\n\n\n\n\n\n\nPackage website: https://lter.github.io/lterdatasampler/"
+  },
+  {
+    "objectID": "packages/2021-01-20-camelsdata/camelsdata.html",
+    "href": "packages/2021-01-20-camelsdata/camelsdata.html",
+    "title": "camelsdata",
+    "section": "",
+    "text": "camelsquery eases the processing of NCAR Catchment Attributes and Meteorology for Large-sample Studies (CAMELS) data using R. It requires as input a set of USGS stream gages (here for more). This package offers a function for downloading the CAMELS data automatically, a function to process CAMELS data and integrate them with USGS daily streamflow and water quality gauge data.\nCAMELS data: https://ral.ucar.edu/solutions/products/camels\nGitHub repository: https://github.com/brunj7/CamelsQuery"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a Research Facilitator at UC Santa Barbara (UCSB) Library.\nThe core of my work is to understand the data and computing challenges researchers are facing and advise them on how to leverage best practices and tools to solve those challenges while helping them to make their work more open and reproducible. I am also a Lecturer in the Master in Environmental Data Science (MEDS) program at Bren School of Environmental Science and Management at UC Santa Barbara, where I teach “good enough” practices in reproducible and collaborative data science and data management.\nMy scientific expertise is in ecohydrology, Earth observation techniques (remote sensing and GIS), and process-based modeling. Prior to conducting my PhD on the ecohydrological impacts of tropical cyclones in the Southeastern US, I conducted several projects on land cover change, vegetation monitoring, and disaster mapping for governmental and international institutions.\nBefore this, I was a Data Engineer Lead in a tech company developing data pipelines to extract location insights from geospatial information.\nI am also involved in the development of several R packages, including the lterdatasampler (https://cran.r-project.org/web/packages/lterdatasampler/) in collaboration with Allison Horst and the metajam R package (https://cran.r-project.org/web/packages/metajam/).\nOn the personal side, I enjoy chocolate crunching, downhill skiing, mountain biking, and playing records on vintage Hi-Fi!"
+  },
+  {
+    "objectID": "trainings.html",
+    "href": "trainings.html",
+    "title": "Trainings",
+    "section": "",
+    "text": "Lecturer – Metadata Standards, Data Modeling and Data Semantics\n\n\nThis course introduces graduate students to the reuse and preservation of envrionmental data.\n\n\n\n\n\nSep 27, 2021\n\n\nJulien Brun\n\n\n\n\n\n\n\n\n\n\n\n\nLecturer – Analytical Workflows and Scientific Reproducibility\n\n\nThis course introduces graduate students to conceptual organization of workflows as a way to conduct reproducible analyses\n\n\n\n\n\nAug 2, 2021\n\n\nJulien Brun\n\n\n\n\n\n\n\n\n\n\n\n\nMentor – UCSB Data Science Capstone project\n\n\nPromote the use of LTER datasets for teaching Data Science.\n\n\n\n\n\nJan 1, 2021\n\n\nJulien Brun, Allison Horst\n\n\n\n\n\n\n\n\n\n\n\n\nNEON Postdoctoral Researchers Onboarding\n\n\nA self guided learning curricula to support new NEON Postdoctoral Fellows as part of their onboarding experience. The curricula builds from the experience of ecological researchers, trainers, developers and information managers to provide resources and training in support of collaborative, reproducible research practices.\n\n\n\n\n\nDec 20, 2020\n\n\nJulien Brun, Amber Budden, Jeanette Clark, Matt Jones, Carrie Kappel, Erin McLean, Bryce Mecum, William Michener, Julie Stewart Lowndes, Geoff Willard\n\n\n\n\n\n\n\n\n\n\n\n\nTools and practices for collaborative, reproducible data science\n\n\nAn introduction to “good enough” practices to create a shared virtual environment allowing you to develop reproducible workflows for your analysis and manage your data.\n\n\n\n\n\nMay 8, 2020\n\n\nJulien Brun, Carrie Kappel, Julie Stewart Lowndes\n\n\n\n\n\n\n\n\n\n\n\n\nEfficient virtual collaboration & facilitation for synthesis science\n\n\nThe goal of thos workshop is to strengthen collaboration and facilitation skills in remote meetings for synthesis science using social and technical approaches that you can immediately implement with your tam.\n\n\n\n\n\nApr 24, 2020\n\n\nJulie Stewart Lowndes, Carrie Kappel, Julien Brun\n\n\n\n\n\n\n\n\n\n\n\n\nData Science and Collaboration Skills for Integrative Conservation Science\n\n\nThis training, sponsored by the Science for Nature And People Partnership (SNAPP), aims to bring together the SNAPP and NCEAS postdoctoral associates to foster communities and collaboration, as well as promote scientific computing and open science best practices.\n\n\n\n\n\nFeb 18, 2020\n\n\nJulien Brun, Carrie Kappel, Jeanette Clark\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to rmarkdown\n\n\nMaking your work reproducible with Rmarkdown.\n\n\n\n\n\nJan 22, 2019\n\n\nJulien Brun\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science for Synthesis: Gulf Research Program Workshop\n\n\nThe primary goal of the Open Science for Synthesis - Gulf Research Program Workshop is to provide hands-on experience with contemporary open science tools from command line to data to communication. Team science is promoted. Practice and real data are used in groups to apply skills we explore.\n\n\n\n\n\nJul 10, 2018\n\n\nMatt Jones, Amber Budden, Chris Lortie, Bryce Mecum, Julien Brun\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Data Visualization using rmarkdown and ggplot2\n\n\nA short introduction to rmarkdown and ggplot2\n\n\n\n\n\nJan 10, 2018\n\n\nJulien Brun, Lauren Hallett\n\n\n\n\n\n\n\n\n\n\n\n\nComputational & collaboration skills for integrative conservation science workshop\n\n\nA 4-day workshop to further develop scientific computing and open science best practices\n\n\n\n\n\nJun 27, 2017\n\n\nJulien Brun, Mark Schildhauer\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "trainings/2017-06-27-computational-collaboration-skills-for-integrative-conservation-science-workshop/computational-collaboration-skills-for-integrative-conservation-science-workshop.html",
+    "href": "trainings/2017-06-27-computational-collaboration-skills-for-integrative-conservation-science-workshop/computational-collaboration-skills-for-integrative-conservation-science-workshop.html",
+    "title": "Computational & collaboration skills for integrative conservation science workshop",
+    "section": "",
+    "text": "This training brought together Science for Nature and People Partnership (SNAPP) postdoctoral associates and technical liaisons to foster community and collaboration, as well as promote scientific computing and open science best practices. Topics included data modeling, manipulation and visualization; collaborative and open science principles and techniques; geospatial analysis; and coding best practices.\n\nknitr::include_graphics(\"DS_venn.png\")\n\n\n\n\nImage Attribution: Drew Conwa http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram\n\n\n\n\n\nWorkshop material:\n\nmaterials: https://github.com/NCEAS/2016-postdoc-training"
+  },
+  {
+    "objectID": "trainings/2017-06-27-computational-collaboration-skills-for-integrative-conservation-science-workshop/computational-collaboration-skills-for-integrative-conservation-science-workshop.html#curriculum-at-a-glance",
+    "href": "trainings/2017-06-27-computational-collaboration-skills-for-integrative-conservation-science-workshop/computational-collaboration-skills-for-integrative-conservation-science-workshop.html#curriculum-at-a-glance",
+    "title": "Computational & collaboration skills for integrative conservation science workshop",
+    "section": "",
+    "text": "This training brought together Science for Nature and People Partnership (SNAPP) postdoctoral associates and technical liaisons to foster community and collaboration, as well as promote scientific computing and open science best practices. Topics included data modeling, manipulation and visualization; collaborative and open science principles and techniques; geospatial analysis; and coding best practices.\n\nknitr::include_graphics(\"DS_venn.png\")\n\n\n\n\nImage Attribution: Drew Conwa http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram\n\n\n\n\n\nWorkshop material:\n\nmaterials: https://github.com/NCEAS/2016-postdoc-training"
+  },
+  {
+    "objectID": "trainings/2020-12-20-neon-onboarding/neon-onboarding.html",
+    "href": "trainings/2020-12-20-neon-onboarding/neon-onboarding.html",
+    "title": "NEON Postdoctoral Researchers Onboarding",
+    "section": "",
+    "text": "This onboarding document is designed to support researchers beginning their postdoctoral work with National Ecological Observatory Network (NEON) in a way that provides access to information, resources and training in open practices and team science. Developing good data science skills will enable researchers to maximize their productivity, share their data with the scientific community effectively and efficiently, and benefit from the re-use of their data by others.\nTraining website: https://learning.nceas.ucsb.edu/2020-12-neon/\nBlog post: https://www.nceas.ucsb.edu/news/nceas-neon-onboarding"
+  },
+  {
+    "objectID": "trainings/2021-09-27-metadata-standards-data-modeling-and-data-semantics/metadata-standards-data-modeling-and-data-semantics.html",
+    "href": "trainings/2021-09-27-metadata-standards-data-modeling-and-data-semantics/metadata-standards-data-modeling-and-data-semantics.html",
+    "title": "Lecturer – Metadata Standards, Data Modeling and Data Semantics",
+    "section": "",
+    "text": "This course is part of the Master of Environmental Data Science (MEDS) degree at the Bren School of Environmental Science and Management at UC Santa Barbara. MEDS is an 11-month professional degree program focused on using data science to advance solutions to environmental problems.\nCourse syllabus:\nThis course will cover the concept of metadata and how it can be leveraged for the integration of heterogeneous datasets into standardized data products. We will practice how to download data from data repositories both manually and programmatically relying on APIs. We will also discuss how to track the provenance of data, generate metadata integrating data semantics to increase data discovery, as well as archiving data products on data repositories to make them available to the broader community.\nCourse website: https://brunj7.github.io/EDS-213-metadata/"
+  },
+  {
+    "objectID": "trainings/2021-01-01-mentor-for-ucsb-data-science-capstone-project/mentor-for-ucsb-data-science-capstone-project.html",
+    "href": "trainings/2021-01-01-mentor-for-ucsb-data-science-capstone-project/mentor-for-ucsb-data-science-capstone-project.html",
+    "title": "Mentor – UCSB Data Science Capstone project",
+    "section": "",
+    "text": "Course website: https://ucsb-ds-capstone-2021.github.io/projects/nceas/update2.html"
+  },
+  {
+    "objectID": "trainings/2019-01-22-introduction-to-rmarkdown/introduction-to-rmarkdown.html",
+    "href": "trainings/2019-01-22-introduction-to-rmarkdown/introduction-to-rmarkdown.html",
+    "title": "Introduction to rmarkdown",
+    "section": "",
+    "text": "This is a 1h30 introduction workshop to the use of rmarkdown to make your work reproduciblw. This workshop was taught twice at UC Santa Barbara:\n\nEco-Data-Science Group: https://eco-data-science.github.io/\nUCSB Center for Scientific Computing (CSC)): http://csc.cnsi.ucsb.edu/docs/seminars-workshops\n\nThere are 2 main documents:\n\nPresentation deck: https://brunj7.github.io/rmarkdown-intro/rmarkdown-intro_deck.html\nR Markdown document we will be playing with: https://github.com/brunj7/rmarkdown-intro/blob/master/rmarkdown-myfirst.Rmd"
+  },
+  {
+    "objectID": "posts/2020-05-04-kick-starting-scientific-collaborations-remotely/kick-starting-scientific-collaborations-remotely.html",
+    "href": "posts/2020-05-04-kick-starting-scientific-collaborations-remotely/kick-starting-scientific-collaborations-remotely.html",
+    "title": "Kick-starting scientific collaborations remotely",
+    "section": "",
+    "text": "The National Center for Ecological Analysis and Synthesis (NCEAS) funds Working Groups of 15-20 scientists from across disciplines and sectors to collaborate on environmental synthesis science projects. In this time of pandemic, groups that would typically be meeting in person four times over ~two years are now faced with launching their projects virtually. NCEAS is providing training and support to help those teams kickstart their research collaborations remotely. In this blog we highlight some of the key takeaways and best practices from our first remote support module, delivered to a cohort of four Working Groups that are launching projects this spring."
+  },
+  {
+    "objectID": "posts/2020-05-04-kick-starting-scientific-collaborations-remotely/kick-starting-scientific-collaborations-remotely.html#abstract",
+    "href": "posts/2020-05-04-kick-starting-scientific-collaborations-remotely/kick-starting-scientific-collaborations-remotely.html#abstract",
+    "title": "Kick-starting scientific collaborations remotely",
+    "section": "",
+    "text": "The National Center for Ecological Analysis and Synthesis (NCEAS) funds Working Groups of 15-20 scientists from across disciplines and sectors to collaborate on environmental synthesis science projects. In this time of pandemic, groups that would typically be meeting in person four times over ~two years are now faced with launching their projects virtually. NCEAS is providing training and support to help those teams kickstart their research collaborations remotely. In this blog we highlight some of the key takeaways and best practices from our first remote support module, delivered to a cohort of four Working Groups that are launching projects this spring."
+  },
+  {
+    "objectID": "posts/2020-05-04-kick-starting-scientific-collaborations-remotely/kick-starting-scientific-collaborations-remotely.html#original-blog-post-on-nceas-website",
+    "href": "posts/2020-05-04-kick-starting-scientific-collaborations-remotely/kick-starting-scientific-collaborations-remotely.html#original-blog-post-on-nceas-website",
+    "title": "Kick-starting scientific collaborations remotely",
+    "section": "Original blog post on NCEAS website:",
+    "text": "Original blog post on NCEAS website:\nhttps://www.nceas.ucsb.edu/news/kick-starting-scientific-collaborations-remotely"
+  },
+  {
+    "objectID": "posts/2020-05-29-developing-reproducible-workflows-collaboratively/developing-reproducible-workflows-collaboratively.html",
+    "href": "posts/2020-05-29-developing-reproducible-workflows-collaboratively/developing-reproducible-workflows-collaboratively.html",
+    "title": "Developing reproducible workflows collaboratively",
+    "section": "",
+    "text": "In this module, we wanted to empower multi-institutional and cross-sectoral science teams to collaboratively develop reproducible workflows for data-driven projects. The idea was to take remote, decentralized teams and help them to develop a centralized mindset and toolkit for data & code while working remotely. Our goal was to expose participants to “good enough” tools and practices to develop common practices that will enable them to collaborate efficiently among each other, but also with their future selves. We focused on the centralization and management of the information, data and code they will be collecting and developing over their two-year project; stressing that for each part of their workflow, everyone should be encouraged and enabled to contribute no matter their technical skills."
+  },
+  {
+    "objectID": "posts/2020-05-29-developing-reproducible-workflows-collaboratively/developing-reproducible-workflows-collaboratively.html#abstract",
+    "href": "posts/2020-05-29-developing-reproducible-workflows-collaboratively/developing-reproducible-workflows-collaboratively.html#abstract",
+    "title": "Developing reproducible workflows collaboratively",
+    "section": "",
+    "text": "In this module, we wanted to empower multi-institutional and cross-sectoral science teams to collaboratively develop reproducible workflows for data-driven projects. The idea was to take remote, decentralized teams and help them to develop a centralized mindset and toolkit for data & code while working remotely. Our goal was to expose participants to “good enough” tools and practices to develop common practices that will enable them to collaborate efficiently among each other, but also with their future selves. We focused on the centralization and management of the information, data and code they will be collecting and developing over their two-year project; stressing that for each part of their workflow, everyone should be encouraged and enabled to contribute no matter their technical skills."
+  },
+  {
+    "objectID": "posts/2020-05-29-developing-reproducible-workflows-collaboratively/developing-reproducible-workflows-collaboratively.html#original-post-on-nceas-website",
+    "href": "posts/2020-05-29-developing-reproducible-workflows-collaboratively/developing-reproducible-workflows-collaboratively.html#original-post-on-nceas-website",
+    "title": "Developing reproducible workflows collaboratively",
+    "section": "Original post on NCEAS website:",
+    "text": "Original post on NCEAS website:\nhttps://www.nceas.ucsb.edu/news/developing-reproducible-workflows-collaboratively"
+  },
+  {
+    "objectID": "posts/2021-05-27-to-go-or-not-to-go-in-the-field/to-go-or-not-to-go-in-the-field.html",
+    "href": "posts/2021-05-27-to-go-or-not-to-go-in-the-field/to-go-or-not-to-go-in-the-field.html",
+    "title": "To go or not to go (in the field)?",
+    "section": "",
+    "text": "For researchers in states with do-not-work orders or from institutions that have shuttered their research operations, there may be no decision to make about whether to continue fieldwork. But those that the virus has been slow to find are now faced with a choice: continue field measurements and manipulations or halt them voluntarily and accept the cost to their science and sometimes their budgets."
+  },
+  {
+    "objectID": "posts/2021-05-27-to-go-or-not-to-go-in-the-field/to-go-or-not-to-go-in-the-field.html#abstract",
+    "href": "posts/2021-05-27-to-go-or-not-to-go-in-the-field/to-go-or-not-to-go-in-the-field.html#abstract",
+    "title": "To go or not to go (in the field)?",
+    "section": "",
+    "text": "For researchers in states with do-not-work orders or from institutions that have shuttered their research operations, there may be no decision to make about whether to continue fieldwork. But those that the virus has been slow to find are now faced with a choice: continue field measurements and manipulations or halt them voluntarily and accept the cost to their science and sometimes their budgets."
+  },
+  {
+    "objectID": "posts/2021-05-27-to-go-or-not-to-go-in-the-field/to-go-or-not-to-go-in-the-field.html#original-post-on-ecotone-website",
+    "href": "posts/2021-05-27-to-go-or-not-to-go-in-the-field/to-go-or-not-to-go-in-the-field.html#original-post-on-ecotone-website",
+    "title": "To go or not to go (in the field)?",
+    "section": "Original post on Ecotone website:",
+    "text": "Original post on Ecotone website:\nhttps://www.esa.org/esablog/2020/04/14/ecology-and-covid-19-1-to-go-or-not-to-go-in-the-field/"
+  },
+  {
+    "objectID": "posts/2021-05-27-leveraging-the-liabilities-of-virtual-collaboration/leveraging-the-liabilities-of-virtual-collaboration.html",
+    "href": "posts/2021-05-27-leveraging-the-liabilities-of-virtual-collaboration/leveraging-the-liabilities-of-virtual-collaboration.html",
+    "title": "Leveraging the liabilities of virtual collaboration",
+    "section": "",
+    "text": "The pandemic has shifted virtual collaboration from being something practiced by some people to being the primary mode of interaction for everyone for the foreseeable future. A lot of resources have been produced and shared to help people adapt to the challenges and liabilities of virtual collaboration. At NCEAS, we wanted to see if there were additional ways we could “leverage the liabilities” of virtual collaboration, to find things that virtual collaboration actually does better. Here are some things we have been experimenting with and the insights they are producing."
+  },
+  {
+    "objectID": "posts/2021-05-27-leveraging-the-liabilities-of-virtual-collaboration/leveraging-the-liabilities-of-virtual-collaboration.html#abstract",
+    "href": "posts/2021-05-27-leveraging-the-liabilities-of-virtual-collaboration/leveraging-the-liabilities-of-virtual-collaboration.html#abstract",
+    "title": "Leveraging the liabilities of virtual collaboration",
+    "section": "",
+    "text": "The pandemic has shifted virtual collaboration from being something practiced by some people to being the primary mode of interaction for everyone for the foreseeable future. A lot of resources have been produced and shared to help people adapt to the challenges and liabilities of virtual collaboration. At NCEAS, we wanted to see if there were additional ways we could “leverage the liabilities” of virtual collaboration, to find things that virtual collaboration actually does better. Here are some things we have been experimenting with and the insights they are producing."
+  },
+  {
+    "objectID": "posts/2021-05-27-leveraging-the-liabilities-of-virtual-collaboration/leveraging-the-liabilities-of-virtual-collaboration.html#original-post-on-ecotone-website",
+    "href": "posts/2021-05-27-leveraging-the-liabilities-of-virtual-collaboration/leveraging-the-liabilities-of-virtual-collaboration.html#original-post-on-ecotone-website",
+    "title": "Leveraging the liabilities of virtual collaboration",
+    "section": "Original post on Ecotone website:",
+    "text": "Original post on Ecotone website:\nhttps://www.esa.org/esablog/2020/06/03/ecology-and-covid-4-leveraging-the-liabilities-of-virtual-collaboration/"
+  },
+  {
+    "objectID": "posts/2022-04-11-ready-to-teach-r-environmental-datasets/ready-to-teach-r-environmental-datasets.html",
+    "href": "posts/2022-04-11-ready-to-teach-r-environmental-datasets/ready-to-teach-r-environmental-datasets.html",
+    "title": "Ready-To-Teach R Environmental Datasets: The lterdatasampler R Package",
+    "section": "",
+    "text": "The issue with finding datasets for our teaching isn’t a lack of openly available environmental data – there are a ton of repositories full of environmental data of all flavors. It can take a teacher a really long time to locate, download, explore, curate, test, and make a lesson with them from scratch. Given how burdensome it can be for environmental science teachers to find and prepare datasets for data science and statistics courses, we thought it would be really useful for environmental data science instructors to have access to an openly available collection of curated datasets. Our goal was to make these learner-friendly, real-world environmental data that can help students consider environmental questions and learn data science and stats skills at the same time."
+  },
+  {
+    "objectID": "posts/2022-04-11-ready-to-teach-r-environmental-datasets/ready-to-teach-r-environmental-datasets.html#abstract",
+    "href": "posts/2022-04-11-ready-to-teach-r-environmental-datasets/ready-to-teach-r-environmental-datasets.html#abstract",
+    "title": "Ready-To-Teach R Environmental Datasets: The lterdatasampler R Package",
+    "section": "",
+    "text": "The issue with finding datasets for our teaching isn’t a lack of openly available environmental data – there are a ton of repositories full of environmental data of all flavors. It can take a teacher a really long time to locate, download, explore, curate, test, and make a lesson with them from scratch. Given how burdensome it can be for environmental science teachers to find and prepare datasets for data science and statistics courses, we thought it would be really useful for environmental data science instructors to have access to an openly available collection of curated datasets. Our goal was to make these learner-friendly, real-world environmental data that can help students consider environmental questions and learn data science and stats skills at the same time."
+  },
+  {
+    "objectID": "posts/2022-04-11-ready-to-teach-r-environmental-datasets/ready-to-teach-r-environmental-datasets.html#original-post-on-lter-website",
+    "href": "posts/2022-04-11-ready-to-teach-r-environmental-datasets/ready-to-teach-r-environmental-datasets.html#original-post-on-lter-website",
+    "title": "Ready-To-Teach R Environmental Datasets: The lterdatasampler R Package",
+    "section": "Original post on LTER website:",
+    "text": "Original post on LTER website:\nhttps://lternet.edu/stories/ready-to-teach-r-environmental-datasets-the-lterdatasampler-r-package/"
+  },
+  {
+    "objectID": "trainings/2018-10-01-reproducible-data-visualization-using-rmarkdown-and-ggplot2/reproducible-data-visualization-using-rmarkdown-and-ggplot2.html",
+    "href": "trainings/2018-10-01-reproducible-data-visualization-using-rmarkdown-and-ggplot2/reproducible-data-visualization-using-rmarkdown-and-ggplot2.html",
+    "title": "Reproducible Data Visualization using rmarkdown and ggplot2",
+    "section": "",
+    "text": "Participants will use of rmarkdown and ggplot2 to create document integrating R code, documentation and data visualization in compelling documents. The first half of the session will be focusing on an introduction to Rmarkdown and how this format can be used to make data processing and analysis more reproducible by combining, documentation and executable code chunks into one document, that can be rendered in different formats (html, PDF, …) to be shared. In the second half of this workshop, participants will take a deeper look into data visualization and how ggplot’s grammar of graphics approach can be used to conduct powerful data exploration and analysis visualizations. Basic knowledge of the R programming language recommended.\n\n\n\n\n\n\n\n\n\n\nWorkshop material:\n\nRepository: https://github.com/brunj7/reproducible-dataviz\nPresentation: https://brunj7.github.io/reproducible-dataviz/rmarkdown-intro_deck.html\n\nEvent Link: https://2018lterallscientistsmeeting.sched.com/event/FYq5"
+  },
+  {
+    "objectID": "trainings/2018-10-01-reproducible-data-visualization-using-rmarkdown-and-ggplot2/reproducible-data-visualization-using-rmarkdown-and-ggplot2.html#curriculum-at-a-glance",
+    "href": "trainings/2018-10-01-reproducible-data-visualization-using-rmarkdown-and-ggplot2/reproducible-data-visualization-using-rmarkdown-and-ggplot2.html#curriculum-at-a-glance",
+    "title": "Reproducible Data Visualization using rmarkdown and ggplot2",
+    "section": "",
+    "text": "Participants will use of rmarkdown and ggplot2 to create document integrating R code, documentation and data visualization in compelling documents. The first half of the session will be focusing on an introduction to Rmarkdown and how this format can be used to make data processing and analysis more reproducible by combining, documentation and executable code chunks into one document, that can be rendered in different formats (html, PDF, …) to be shared. In the second half of this workshop, participants will take a deeper look into data visualization and how ggplot’s grammar of graphics approach can be used to conduct powerful data exploration and analysis visualizations. Basic knowledge of the R programming language recommended.\n\n\n\n\n\n\n\n\n\n\nWorkshop material:\n\nRepository: https://github.com/brunj7/reproducible-dataviz\nPresentation: https://brunj7.github.io/reproducible-dataviz/rmarkdown-intro_deck.html\n\nEvent Link: https://2018lterallscientistsmeeting.sched.com/event/FYq5"
+  },
+  {
+    "objectID": "trainings/2020-04-24-efficient-virtual-collaboration-facilitation-for-synthesis-science/efficient-virtual-collaboration-facilitation-for-synthesis-science.html",
+    "href": "trainings/2020-04-24-efficient-virtual-collaboration-facilitation-for-synthesis-science/efficient-virtual-collaboration-facilitation-for-synthesis-science.html",
+    "title": "Efficient virtual collaboration & facilitation for synthesis science",
+    "section": "",
+    "text": "This 3-hour module provides mentorship and facilitation training for teams (Working Groups) to develop skill sets, habits, and mindsets to make remote work and collaborative synthesis science more efficient and resilient.\n\n\n\n\n\n\n\n\n\n\nWorkshop material: https://docs.google.com/document/d/1-rm903_Er4fgKVHxYSSqCnAMEGssiJw-7t9htbC4IVk/edit?usp=sharing\nBlog post: https://www.nceas.ucsb.edu/news/kick-starting-scientific-collaborations-remotely"
+  },
+  {
+    "objectID": "trainings/2020-04-24-efficient-virtual-collaboration-facilitation-for-synthesis-science/efficient-virtual-collaboration-facilitation-for-synthesis-science.html#curriculum-at-a-glance",
+    "href": "trainings/2020-04-24-efficient-virtual-collaboration-facilitation-for-synthesis-science/efficient-virtual-collaboration-facilitation-for-synthesis-science.html#curriculum-at-a-glance",
+    "title": "Efficient virtual collaboration & facilitation for synthesis science",
+    "section": "",
+    "text": "This 3-hour module provides mentorship and facilitation training for teams (Working Groups) to develop skill sets, habits, and mindsets to make remote work and collaborative synthesis science more efficient and resilient.\n\n\n\n\n\n\n\n\n\n\nWorkshop material: https://docs.google.com/document/d/1-rm903_Er4fgKVHxYSSqCnAMEGssiJw-7t9htbC4IVk/edit?usp=sharing\nBlog post: https://www.nceas.ucsb.edu/news/kick-starting-scientific-collaborations-remotely"
+  },
+  {
+    "objectID": "trainings/2021-08-02-analytical-workflows-and-scientific-reproducibility/analytical-workflows-and-scientific-reproducibility.html",
+    "href": "trainings/2021-08-02-analytical-workflows-and-scientific-reproducibility/analytical-workflows-and-scientific-reproducibility.html",
+    "title": "Lecturer – Analytical Workflows and Scientific Reproducibility",
+    "section": "",
+    "text": "This course is part of the Master of Environmental Data Science (MEDS) degree at the Bren School of Environmental Science and Management at UC Santa Barbara. MEDS is an 11-month professional degree program focused on using data science to advance solutions to environmental problems.\nCourse syllabus:\nThe generation and analysis of environmental data is often a complex, multi-step process that may involve the collaboration of many people. Increasingly tools that document and help to organize workflows are being used to ensure reproducibility, shareability, and transparency of the results. This course will introduce students to the conceptual organization of workflows (including code, documents, and data) as a way to conduct reproducible analyses. These concepts will be combined with the practice of various software tools and collaborative coding techniques to develop and manage multi-step analytical workflows as a team.\nCourse website: https://brunj7.github.io/EDS-214-analytical-workflows/"
+  },
+  {
+    "objectID": "trainings/2018-07-10-open-science-for-synthesis-gulf-research-program-workshop/open-science-for-synthesis-gulf-research-program-workshop.html",
+    "href": "trainings/2018-07-10-open-science-for-synthesis-gulf-research-program-workshop/open-science-for-synthesis-gulf-research-program-workshop.html",
+    "title": "Open Science for Synthesis: Gulf Research Program Workshop",
+    "section": "",
+    "text": "The primary goal of the 3-week Open Science for Synthesis - Gulf Research Program Workshop is to provide hands-on experience with contemporary open science tools from command line to data to communication. Team science is promoted. Practice and real data are used in groups to apply skills we explore.\nWeek 1. Fundamental collaboration skills Introduction to command line, communicating science, R, meta-analysis and data management.\nWeek 2. Advanced topics Tabular data, programming, Python, workflows, reproducible science and metagenomics.\nWeek 3. Advanced topics & group projects Communication, geospatial analysis, data viz, and group project sharing.\n\nknitr::include_graphics(\"gulf.jpg\")\n\n\n\n\n\n\n\n\n\nWorkshop material:\n\nwebsite: https://nceas.github.io/oss-2017/index.html\nmaterials: https://nceas.github.io/oss-2017/lessons.html"
+  },
+  {
+    "objectID": "trainings/2018-07-10-open-science-for-synthesis-gulf-research-program-workshop/open-science-for-synthesis-gulf-research-program-workshop.html#curriculum-at-a-glance",
+    "href": "trainings/2018-07-10-open-science-for-synthesis-gulf-research-program-workshop/open-science-for-synthesis-gulf-research-program-workshop.html#curriculum-at-a-glance",
+    "title": "Open Science for Synthesis: Gulf Research Program Workshop",
+    "section": "",
+    "text": "The primary goal of the 3-week Open Science for Synthesis - Gulf Research Program Workshop is to provide hands-on experience with contemporary open science tools from command line to data to communication. Team science is promoted. Practice and real data are used in groups to apply skills we explore.\nWeek 1. Fundamental collaboration skills Introduction to command line, communicating science, R, meta-analysis and data management.\nWeek 2. Advanced topics Tabular data, programming, Python, workflows, reproducible science and metagenomics.\nWeek 3. Advanced topics & group projects Communication, geospatial analysis, data viz, and group project sharing.\n\nknitr::include_graphics(\"gulf.jpg\")\n\n\n\n\n\n\n\n\n\nWorkshop material:\n\nwebsite: https://nceas.github.io/oss-2017/index.html\nmaterials: https://nceas.github.io/oss-2017/lessons.html"
+  },
+  {
+    "objectID": "trainings/2020-02-18-data-science-and-collaboration-skills-for-integrative-conservation-science/data-science-and-collaboration-skills-for-integrative-conservation-science.html",
+    "href": "trainings/2020-02-18-data-science-and-collaboration-skills-for-integrative-conservation-science/data-science-and-collaboration-skills-for-integrative-conservation-science.html",
+    "title": "Data Science and Collaboration Skills for Integrative Conservation Science",
+    "section": "",
+    "text": "This intensive 4-day workshop on Data Science and Collaboration Skills for Integrative Conservation Science was held at NCEAS, Santa Barbara, CA from Feb 18 to Feb 21, 2020."
+  },
+  {
+    "objectID": "trainings/2020-02-18-data-science-and-collaboration-skills-for-integrative-conservation-science/data-science-and-collaboration-skills-for-integrative-conservation-science.html#curriculum-at-a-glance",
+    "href": "trainings/2020-02-18-data-science-and-collaboration-skills-for-integrative-conservation-science/data-science-and-collaboration-skills-for-integrative-conservation-science.html#curriculum-at-a-glance",
+    "title": "Data Science and Collaboration Skills for Integrative Conservation Science",
+    "section": "Curriculum at a glance",
+    "text": "Curriculum at a glance\nThe goals of this workshop are to:\n\nIntegrate collaborative science best practices within SNAPP Working Groups\nEmpower participants to adopt computing best practices in their scientific workflows and data management\nCreate a greater sense of SNAPP community\nFoster potential collaboration and enhanced knowledge-sharing across SNAPP Working Groups\nFamiliarize and instruct SNAPP researchers in the use of NCEAS (and other) analytical servers and services\nDiscuss mechanisms that have helped SNAPP groups to advance SNAPP’s commitment to open science\n\n\n\n\n\n\n\n\n\n\n\nTraining website: https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp\nPre-training R assessment: https://cosima.nceas.ucsb.edu/r-self-assessment/#section-assessment"
+  },
+  {
+    "objectID": "trainings/2020-05-08-tools-and-practices-for-collaborative-reproducible-data-science/tools-and-practices-for-collaborative-reproducible-data-science.html",
+    "href": "trainings/2020-05-08-tools-and-practices-for-collaborative-reproducible-data-science/tools-and-practices-for-collaborative-reproducible-data-science.html",
+    "title": "Tools and practices for collaborative, reproducible data science",
+    "section": "",
+    "text": "This module is an introduction to the data science support NCEAS is providing to LTER and SNAPP working groups followed by a discussion on best practices about data management in a distributed team setup. Participants will have the opportunity to brainstorm on their data and computing needs. In the second part of the workshop, an introduction to the use of NCEAS analytical server and the concept of collaborative coding as a distributed team will be demonstrated to empower participants to develop their analytical workflows in a remote setup.\n\n\n\n\n\n\n\n\n\n\nWorkshop material: https://docs.google.com/document/d/1cTIYyfc0J564PxpF0-xE_bbH6TIK2tq1F5WkDOx0lrw/edit?usp=sharing\nBlog post: https://www.nceas.ucsb.edu/news/developing-reproducible-workflows-collaboratively"
+  },
+  {
+    "objectID": "trainings/2020-05-08-tools-and-practices-for-collaborative-reproducible-data-science/tools-and-practices-for-collaborative-reproducible-data-science.html#curriculum-at-a-glance",
+    "href": "trainings/2020-05-08-tools-and-practices-for-collaborative-reproducible-data-science/tools-and-practices-for-collaborative-reproducible-data-science.html#curriculum-at-a-glance",
+    "title": "Tools and practices for collaborative, reproducible data science",
+    "section": "",
+    "text": "This module is an introduction to the data science support NCEAS is providing to LTER and SNAPP working groups followed by a discussion on best practices about data management in a distributed team setup. Participants will have the opportunity to brainstorm on their data and computing needs. In the second part of the workshop, an introduction to the use of NCEAS analytical server and the concept of collaborative coding as a distributed team will be demonstrated to empower participants to develop their analytical workflows in a remote setup.\n\n\n\n\n\n\n\n\n\n\nWorkshop material: https://docs.google.com/document/d/1cTIYyfc0J564PxpF0-xE_bbH6TIK2tq1F5WkDOx0lrw/edit?usp=sharing\nBlog post: https://www.nceas.ucsb.edu/news/developing-reproducible-workflows-collaboratively"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Julien Brun, PhD",
+    "section": "",
+    "text": "Hi there, I am the Earth and Environmental Sciences Research Facilitator at UC Santa Barbara (UCSB) Library.\nI am passionate about helping researchers in environmental sciences to make their work more reproducible by relying on my data science skills to advise them on how to leverage data management practices and programming tools to make their work more reusable and collaborate better.\nWant to know more? click here"
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "Ready-To-Teach R Environmental Datasets: The lterdatasampler R Package\n\n\nToday we are excited to share with the broader R community a new collection of 8 data samples geared towards teaching environmental data science—and beyond!\n\n\n\n\n\nApr 11, 2022\n\n\nAllison Horst, Julien Brun\n\n\n\n\n\n\n\n\n\n\n\n\nLeveraging the liabilities of virtual collaboration\n\n\nWe wanted to see if there were additional ways we could “leverage the liabilities” of virtual collaboration, to find things that virtual collaboration actually does better..\n\n\n\n\n\nJun 3, 2020\n\n\nBen Halpern, Julien Brun, Amber Budden, Marty Downs, Carrie Kappel, Julie Lowndes\n\n\n\n\n\n\n\n\n\n\n\n\nDeveloping reproducible workflows collaboratively\n\n\nIn this blog we highlight some of the key takeaways and best practices from our second remote support module to collaborate in a more reproducible and data-driven way.\n\n\n\n\n\nMay 29, 2020\n\n\nJulien Brun, Julie Lowndes, Carrie Kappel\n\n\n\n\n\n\n\n\n\n\n\n\nKick-starting scientific collaborations remotely\n\n\nIn this blog we highlight some of the key takeaways and best practices from our first remote support module, delivered to a cohort of four Working Groups that are launching projects this spring.\n\n\n\n\n\nMay 4, 2020\n\n\nJulie Lowndes, Carrie Kappel, Julien Brun\n\n\n\n\n\n\n\n\n\n\n\n\nTo go or not to go (in the field)?\n\n\nChoosing whether to maintain long-term experiments during COVID poses a difficult dilemma.\n\n\n\n\n\nApr 14, 2020\n\n\nMarty Downs, Frank Davis, Jenn Caselle, Julien Brun, Kristen Weiss\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "packages/2021-01-20-metajam/metajam.html",
+    "href": "packages/2021-01-20-metajam/metajam.html",
+    "title": "metajam",
+    "section": "",
+    "text": "metajam is an R package to ease the Download and import of data and metadata from repositories in the DataONE federation of data repository into R.\n\n\n\n\n\n\n\n\n\nPackage website: https://nceas.github.io/metajam/"
+  },
+  {
+    "objectID": "brunj7.html",
+    "href": "brunj7.html",
+    "title": "@brunj7",
+    "section": "",
+    "text": "Version: 1.0\nRestoreWorkspace: Default SaveWorkspace: Default AlwaysSaveHistory: Default\nEnableCodeIndexing: Yes UseSpacesForTab: Yes NumSpacesForTab: 4 Encoding: UTF-8\nRnwWeave: Sweave LaTeX: pdfLaTeX\nBuildType: Website"
+  }
+]

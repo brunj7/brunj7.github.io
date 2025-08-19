@@ -6,8 +6,13 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Julien Brun">
+<meta name="author" content="Carrie Kappel">
+<meta name="author" content="Julie Stewart Lowndes">
+<meta name="dcterms.date" content="2020-05-08">
+<meta name="description" content="An introduction to “good enough” practices to create a shared virtual environment allowing you to develop reproducible workflows for your analysis and manage your data.">
 
-<title>Julien Brun, PhD – @brunj7</title>
+<title>Tools and practices for collaborative, reproducible data science – @brunj7</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,22 +28,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-85b788ac362010fc7da4a7f30d8e0d04.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-85b788ac362010fc7da4a7f30d8e0d04.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -78,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title"><span class="citation" data-cites="brunj7">@brunj7</span></span>
     </a>
   </div>
@@ -89,23 +95,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About Me</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blogs.html"> 
+    <a class="nav-link" href="../../blogs.html"> 
 <span class="menu-text">Blogs</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./trainings.html"> 
+    <a class="nav-link" href="../../trainings.html"> 
 <span class="menu-text">Trainings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./packages.html"> 
+    <a class="nav-link" href="../../packages.html"> 
 <span class="menu-text">R Packages</span></a>
   </li>  
 </ul>
@@ -128,40 +134,75 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="images/brunj7.jpg" class="about-image
-  round " style="height: 17em; width: 17em;">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Julien Brun, PhD</h1>
+<h1 class="title">Tools and practices for collaborative, reproducible data science</h1>
 </div>
+
+<div>
+  <div class="description">
+    <p>An introduction to “good enough” practices to create a shared virtual environment allowing you to develop reproducible workflows for your analysis and manage your data.</p>
+  </div>
+</div>
+
+
 <div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Authors</div>
+    <div class="quarto-title-meta-contents">
+             <p>Julien Brun </p>
+             <p>Carrie Kappel </p>
+             <p>Julie Stewart Lowndes </p>
+          </div>
   </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 8, 2020</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="https://github.com/brunj7" class="about-link" rel="" target="">
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="https://www.linkedin.com/in/brun-julien/" class="about-link" rel="" target="">
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=aoRF59sAAAAJ&amp;hl=en&amp;oi=ao" class="about-link" rel="" target="">
-     <span class="about-link-text">Google Scholar</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Hi there, I am the Earth and Environmental Sciences <strong>Research Facilitator</strong> at UC Santa Barbara (UCSB) Library.</p>
-<p>I am passionate about helping researchers in environmental sciences to make their work more reproducible by relying on my data science skills to advise them on how to leverage data management practices and programming tools to make their work more reusable and collaborate better.</p>
-<p>Want to know more? click <a href="about.html">here</a></p>
 
 
-</main></div>
+<section id="curriculum-at-a-glance" class="level2">
+<h2 class="anchored" data-anchor-id="curriculum-at-a-glance">Curriculum at a glance</h2>
+<p>This module is an introduction to the data science support <a href="https://www.nceas.ucsb.edu/">NCEAS</a> is providing to <a href="https://lternet.edu/">LTER</a> and <a href="https://snappartnership.net/">SNAPP</a> working groups followed by a discussion on best practices about data management in a distributed team setup. Participants will have the opportunity to brainstorm on their data and computing needs. In the second part of the workshop, an introduction to the use of NCEAS analytical server and the concept of collaborative coding as a distributed team will be demonstrated to empower participants to develop their analytical workflows in a remote setup.</p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="training_group_screenshot.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="452"></p>
+</figure>
 </div>
- <!-- /main -->
+</div>
+</div>
+<p><br></p>
+<p><strong>Workshop material:</strong> https://docs.google.com/document/d/1cTIYyfc0J564PxpF0-xE_bbH6TIK2tq1F5WkDOx0lrw/edit?usp=sharing</p>
+<p><strong>Blog post:</strong> https://www.nceas.ucsb.edu/news/developing-reproducible-workflows-collaboratively</p>
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

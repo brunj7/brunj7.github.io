@@ -1,0 +1,7 @@
+---
+title: "Trainings"
+listing:
+  contents: trainings
+  sort: "date desc"
+  type: default
+---

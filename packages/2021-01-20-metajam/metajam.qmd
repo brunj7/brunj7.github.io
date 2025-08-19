@@ -1,0 +1,29 @@
+---
+title: "metajam"
+description: |
+  R package to Bringing data and metadata togetheR
+author:
+  - name: Julien Brun
+  - name: Irene Steves
+  - name: Mitchell Maier
+date: 04-20-2018
+---
+
+
+```{r setup, include=FALSE, }
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+`metajam` is an R package to ease the Download and import of data and metadata from repositories in the [DataONE](https://www.dataone.org/) federation of data repository into R.
+
+```{r fig.align='center'}
+knitr::include_graphics("metajam_hex.png")
+```
+
+Package website: https://nceas.github.io/metajam/
+
+
+
+
